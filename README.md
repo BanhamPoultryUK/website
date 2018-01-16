@@ -2,7 +2,7 @@
 
 The website hosted at [banhampoultryuk.com](http://banhampoultryuk.com)
 
-Development hosted at [banham.visualstudio.com/Website](https://banham.visualstudio.com/Website)
+Development hosted at [github.com/BanhamPoultryUK/Website](https://github.com/BanhamPoultryUK/Website)
 
 # Technologies
 - Linux
@@ -12,18 +12,9 @@ Development hosted at [banham.visualstudio.com/Website](https://banham.visualstu
 - CSS
 - JavaScript
 
-# Getting Started
-1. Install Visual Studio 2017 and the Git extension.
-2. Connect to your Visual Studio account.
-3. Clone the project you require.
-
-# Future Development
-1. Make changes within the project.
-2. Commit under `Changes`
-3. Push and Pull under `Sync`
-
 # Staging
-There is no staging environment at this time.
+There is a staging environment at [banhampoultryuk.com.local](http://banhampoultryuk.com.local)  
+This is hosted on `BanLinux`.
 
 # Deployment
-Use `FTP Settings.xml` in Filezilla to upload changed files from your local copy to the Timico webhost.
+Upload changed files from your local copy to the webhost.
