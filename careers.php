@@ -6,14 +6,6 @@
 	$Custom = '<script type="text/javascript" src="assets/js/gen_validatorv31.js"></script>';
 	include 'assets/sections/header.php';
 
-/*
-	Contact Form from HTML Form Guide
-	This program is free software published under the
-	terms of the GNU Lesser General Public License.
-	See this page for more info:
-	http://www.html-form-guide.com/contact-form/contact-form-attachment.html
-*/
-
 require __DIR__.'/_contact-form/fgcontactform.php';
 
 $formproc = new FGContactForm();
@@ -26,7 +18,7 @@ $formproc->AddRecipient('recruitment@banhampoultryuk.com'); //<<---Put your emai
 // and put it here
 $formproc->SetFormRandomKey('HG9hPBpn9Bn26yg');
 
-$formproc->AddFileUploadField('photo','pdf,doc,docx',2024);
+$formproc->AddFileUploadField('photo', 'pdf,doc,docx', 10240);
 
 if ( isset($_POST['submitted']) ) {
 	if ( $formproc->ProcessForm() ) {

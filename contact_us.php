@@ -32,7 +32,7 @@
 					<h3 class="heading">Supplier/Customer Registration</h3>
 					<p>Please use this form to make an enquiry or to request product literature</p><br/>
 					<p><span>&#42;</span> required fields</p><br/>
-				<form id="registration" action="/_contact-form/send_mail.php" method="post">
+				<form id="registration" action="/_contact-form/send-mail_sales.php" method="post">
 			<div class="formlabel">Title</div>
 				<div class="formfield">
 					<select name="suggestion">
@@ -55,8 +55,6 @@
 		<div class="formlabel">Email <span>&#42;</span></div>
 		<div class="formfield"> <input class="field" type="email" name="email" size="45"/></div>
 
-		<div class="formlabel">Confirm Email <span>&#42;</span></div>
-		<div class="formfield"> <input class="field" type="email" name="confirm_email" size="45"/></div>
 		<div class="formlabel">Address</div>
 		<div class="formfield">
 			<textarea name="address" rows="5" cols="40"></textarea>
