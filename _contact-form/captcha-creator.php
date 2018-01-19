@@ -24,7 +24,7 @@ class FGCaptchaCreator extends FG_CaptchaHandler
         $this->margin_y = 10;
 
         $this->nlines = 2;
-        $this->font_file = 'include/SFOldRepublicSCBold.ttf';
+        $this->font_file = '_contact-form/SFOldRepublicSCBold.ttf';
         $this->enc_key="GhsnR5^Hyhsfg";
         $this->captcha_var_name = $captcha_var_name;
     }

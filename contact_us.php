@@ -1,10 +1,10 @@
 <?php
-	
+
 	$Title = 'Banham Poultry Limited &#45; Contact Us';
 	$Description = 'Write to us, contact us, get directions to our site and request product literature.';
 	$Keywords = 'banham poultry,banham group,fresh british chicken,poultry products,poultry processors,poultry farmers';
 	include 'assets/sections/header.php';
-	
+
 ?>
 			<div id="main">
 				<div id="contact_div">
@@ -23,7 +23,7 @@
 						<h3 class="heading">Find Us</h3>
 						<form id="direction" action="http://maps.google.com/maps" method="get">
 							<input id="direction_input" type="text" onfocus="if(this.value=='Enter your postal code')this.value=''" onblur="if(this.value=='')this.value='Enter your postal code'" title="" value="Enter your postal code" name="saddr"/>
-							<input type="hidden" name="daddr" value="Banham Poultry, Station Road, Attleborough NR17 2AT, UK"/><br /><br />		   
+							<input type="hidden" name="daddr" value="Banham Poultry, Station Road, Attleborough NR17 2AT, UK"/><br /><br />
 							<input id="direction_icon" type="image" src="assets/images/1340469161_Contacts.png" title="Get Directions" alt="Get Directions"/>
 						</form>
 					</div>
@@ -32,23 +32,23 @@
 					<h3 class="heading">Supplier/Customer Registration</h3>
 					<p>Please use this form to make an enquiry or to request product literature</p><br/>
 					<p><span>&#42;</span> required fields</p><br/>
-				<form id="registration" action="php/send_mail.php" method="post">
+				<form id="registration" action="/_contact-form/send_mail.php" method="post">
 			<div class="formlabel">Title</div>
 				<div class="formfield">
 					<select name="suggestion">
 					<option selected="selected">Mr</option>
-					<option>Mrs</option>	
-					<option>Ms</option>	
-					<option>Miss</option>	
-					<option>Dr</option>	
+					<option>Mrs</option>
+					<option>Ms</option>
+					<option>Miss</option>
+					<option>Dr</option>
 				</select>
-			</div>		
+			</div>
 		<div class="formlabel">Name</div>
 		<div class="formfield"> <input class="field" type="text" name="name" size="45"/></div>
-		
+
 		<div class="formlabel">Company Name</div>
 		<div class="formfield"> <input class="field" type="text" name="company_name" size="45"/></div>
-		
+
 		<div class="formlabel">Job Title</div>
 		<div class="formfield"> <input class="field" type="text" name="job_title" size="45"/></div>
 
@@ -61,10 +61,10 @@
 		<div class="formfield">
 			<textarea name="address" rows="5" cols="40"></textarea>
 		</div>
-		
+
 		<div class="formlabel">Telephone</div>
 		<div class="formfield"> <input class="field" type="text" name="tel_no" size="45"/></div>
-			
+
 		<div class="formlabel">Nature of your enquiry</div>
 		<div class="formfield">
 			<textarea name="comments" rows="6" cols="40"></textarea>
@@ -77,5 +77,5 @@
 </div>
 	</div>
 	</div>
-		
+
 <?php include 'assets/sections/footer.php'; ?>

@@ -12,7 +12,7 @@ PARTICULAR PURPOSE.
 
 @copyright html-form-guide.com 2010
 */
-require 'class.phpmailer.php';
+require __DIR__.'/class.phpmailer.php';
 
 /*
 Interface to Captcha handler
@@ -174,7 +174,7 @@ class FGContactForm
         $this->CollectConditionalReceipients();
 
         $this->mailer->CharSet = 'utf-8';
-        
+
         $this->mailer->Subject = "Contact form submission from $this->name";
 
         $this->mailer->From = $this->GetFromAddress();
@@ -254,8 +254,8 @@ class FGContactForm
             if(!$this->IsFileUploaded($field_name))
             {
                 continue;
-            }        
-            
+            }
+
             $filename = basename($_FILES[$field_name]['name']);
 
             $ret_str .= "<div class='label'>File upload CV</div><div class='value'>$filename </div>\n";
@@ -318,7 +318,7 @@ class FGContactForm
             {
                 continue;
             }
-            
+
             $filename =basename($_FILES[$field_name]['name']);
 
             $this->mailer->AddAttachment($_FILES[$field_name]["tmp_name"],$filename);
@@ -464,7 +464,7 @@ class FGContactForm
             $field_name = $upld_field["name"];
 
             $valid_filetypes = $upld_field["file_types"];
-            
+
             if(!$this->IsFileUploaded($field_name))
             {
                 continue;
