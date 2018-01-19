@@ -7,6 +7,9 @@ $to_email = 'sales@banhampoultryuk.com';
 This bit sets the URLs of the supporting pages.
 If you change the names of any of the pages, you will need to change the values here.
 */
+$form_page = 'pages/contact_us.php';
+$error_page = 'pages/form_error.php';
+$reply_page = 'pages/form_reply.php';
 
 /*
 This next bit loads the form field data into variables.
