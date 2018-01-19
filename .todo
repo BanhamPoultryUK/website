@@ -1,9 +1,6 @@
-* cgi-bin is necessary and insecure.
 * `include` and `php` seem to house the same stuff, in two separate places.
 * Form sanitization seems to happen client-side.
 
 Lets not concern ourselves with the horrifically out of date MySQL and PHPMyAdmin, but Apache and PHP are important.
 PHPMyAdmin 2.11.9.5 => 4.2.9
 MySQL 5.0.67 => 5.6
-
-* Images don't have proper alternative texts, which is bad for accessibility.
