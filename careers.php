@@ -117,12 +117,6 @@ Uses the excellent form validation script from JavaScript-coder.com-->
 					<li>6.30pm to 3am (Monday to Friday)
 					<li>Starting rate £7.65
 				</ul>
-				<br>
-				<h4>Security Guard</h4>
-				<ul>
-					<li>4 on 4 off rota, 6am – 6pm
-					<li>£8.08 per hour
-				</ul>
 				<!--
 				<p>We have no open positions at this time.</h4>
 				-->
