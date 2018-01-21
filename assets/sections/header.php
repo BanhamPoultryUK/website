@@ -40,8 +40,8 @@
 	
 	<link rel="stylesheet" type="text/css" media="all" href="//cdn.jsdelivr.net/g/normalize" />
 	<link rel="stylesheet" type="text/css" media="all" href="//fonts.googleapis.com/css?family=Lato:400,700,400italic" />
-	<link rel="stylesheet" type="text/css" media="all" href="assets/css/main.css" />
-	<link rel="stylesheet" type="text/css" media="print" href="assets/css/print.css" />
+	<link rel="stylesheet" type="text/css" media="all" href="/assets/css/main.css" />
+	<link rel="stylesheet" type="text/css" media="print" href="/assets/css/print.css" />
 	<?php if ( !empty($Custom) ) echo $Custom; ?>
 	
 	<script>
@@ -57,20 +57,20 @@
 <body>
 	<div id="wrapper">
 		<div id="hd">
-			<a href="/"><img id="hd_logo" src="assets/images/new_hd.png" width="326" height="115" title="" alt="" /></a>
+			<a href="/"><img id="hd_logo" src="/assets/images/new_hd.png" width="326" height="115" title="" alt="" /></a>
 			<div id="hd_links">
-				<a href="assets/files/BanhamPoultryPrivacyPolicy.pdf" title="">Privacy Policy</a><span>&nbsp;&#124;</span>
-				<a href="assets/files/BanhamPoultryTermsOfUse.pdf" title="">Terms of Use</a>
+				<a href="/assets/files/BanhamPoultryPrivacyPolicy.pdf" title="">Privacy Policy</a><span>&nbsp;&#124;</span>
+				<a href="/assets/files/BanhamPoultryTermsOfUse.pdf" title="">Terms of Use</a>
 			</div>
 		</div>
 		<div id="navigation">
 			<ul id="nav">
 				<li id="nav_home"><a href="/" title="">Home</a></li>
-				<li id="nav_about_us"><a href="about_us.php" title="">About Us</a></li>
-				<li id="nav_products"><a href="products.php" title="">Products</a></li>
-				<li id="nav_agriculture"><a href="agriculture.php" title="">Agriculture</a></li>
-				<li id="nav_environment"><a href="environment.php" title="">Environment</a></li>
-				<li id="nav_careers"><a href="careers.php" title="">Careers</a></li>
-				<li id="nav_contact_us"><a href="contact_us.php" title="">Contact Us</a></li>
+				<li id="nav_about_us"><a href="/about_us.php" title="">About Us</a></li>
+				<li id="nav_products"><a href="/products.php" title="">Products</a></li>
+				<li id="nav_agriculture"><a href="/agriculture.php" title="">Agriculture</a></li>
+				<li id="nav_environment"><a href="/environment.php" title="">Environment</a></li>
+				<li id="nav_careers"><a href="/careers.php" title="">Careers</a></li>
+				<li id="nav_contact_us"><a href="/contact_us.php" title="">Contact Us</a></li>
 			</ul>
 		</div>

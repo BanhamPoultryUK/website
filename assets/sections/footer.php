@@ -4,19 +4,19 @@
 				<p>Copyright &copy; 2015 Banham Poultry Limited<br />Registered Office: Station Road, Attleborough, Norfolk NR17 2AT United Kingdom<br />Registered in England &#38; Wales 7333101 &#124; VAT Registration No. 995 9214 62</p>
 				<div class="ft_links">
 					<a href="https://mailgate.banhampoultryuk.com/owa">Employee Mail</a><br />
-					<a href="assets/files/BanhamPoultryModernSlaveryActStatement.pdf">Modern Slavery Act</a><br />
-					<a href="assets/files/BanhamPoultryEthicalTradingPolicySummary.pdf">Ethical Trading Policy</a>
+					<a href="/assets/files/BanhamPoultryModernSlaveryActStatement.pdf">Modern Slavery Act</a><br />
+					<a href="/assets/files/BanhamPoultryEthicalTradingPolicySummary.pdf">Ethical Trading Policy</a>
 				</div>
 				<div class="ft_links">
-					<a href="agriculture.php">Agriculture</a><br />
-					<a href="environment.php">Environment</a><br />
-					<a href="careers.php">Careers</a><br />
-					<a href="contact_us.php">Contact Us</a>
+					<a href="/agriculture.php">Agriculture</a><br />
+					<a href="/environment.php">Environment</a><br />
+					<a href="/careers.php">Careers</a><br />
+					<a href="/contact_us.php">Contact Us</a>
 				</div>
 				<div class="ft_links">
-					<a href="index.php">Home</a><br />
-					<a href="about_us.php">About Us</a><br />
-					<a href="products.php">Products</a>
+					<a href="/index.php">Home</a><br />
+					<a href="/about_us.php">About Us</a><br />
+					<a href="/products.php">Products</a>
 				</div>
 			</div>
 		</div>
