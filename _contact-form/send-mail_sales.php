@@ -1,7 +1,7 @@
 <?php
 
 // Where to send the mail to
-$to_email = 'lewis.goddard@banhampoultryuk.com';
+$to_email = 'sales@banhampoultryuk.com';
 
 /*
 This bit sets the URLs of the supporting pages.
@@ -20,12 +20,10 @@ $Message = 'Title: '.$_POST['suggestion'];
 $Message .= "\nName: ".$_POST['name'];
 $Message .= "\nCompany Name: ".$_POST['company_name'];
 $Message .= "\nJob Title: ".$_POST['job_title'];
-$Message .= "\nEmail: ".$_POST['confirm_email'];
+$Message .= "\nEmail: ".$_POST['email'];
 $Message .= "\nAddress: ".$_POST['address'];
 $Message .= "\nTel No: ".$_POST['tel_no'];
 $Message .= "\nEnquiry: \n\n".$_POST['comments'];
-var_dump($_POST);
-
 
 /*
 The following function checks for email injection.
@@ -70,8 +68,5 @@ if ( !isset($_POST['email']) ) {
 		$Message,
 		'From: '.$_POST['email']
 	);
-	echo $to_email;
-	echo $Message;
-	var_dump($result);
-	//header('Location: '.$reply_page);
+	header('Location: '.$reply_page);
 }
