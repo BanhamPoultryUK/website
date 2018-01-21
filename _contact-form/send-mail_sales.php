@@ -8,8 +8,8 @@ This bit sets the URLs of the supporting pages.
 If you change the names of any of the pages, you will need to change the values here.
 */
 $form_page = '../contact_us.php';
-$error_page = 'pages/form_error.php';
-$reply_page = 'pages/form_reply.php';
+$error_page = 'pages/email-required.php';
+$reply_page = 'pages/thank-you_sales.php';
 
 /*
 This next bit loads the form field data into variables.
@@ -52,7 +52,7 @@ function isInjected($str) {
 if ( !isset($_POST['email']) ) {
 	header('Location: '.$form_page);
 
-// If the form fields are empty, redirect to the error page.
+// If an email address is not supplied, redirect to the error page.
 } else if ( empty($email_address) ) {
 	header('Location: '.$error_page);
 
