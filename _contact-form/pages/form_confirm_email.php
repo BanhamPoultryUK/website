@@ -2,7 +2,7 @@
 	$Title = 'Banham Poultry Limited &#45; Registration';
 	$Description = 'Banham Poultry Limited - Suppliers of high quality fresh British chicken';
 	$Keywords = 'banham poultry,banham group,fresh british chicken,poultry products,poultry processors,poultry farmers';
-	include 'assets/sections/header.php';
+	include '../../assets/sections/header.php';
 ?>
 			<div id="display_bg">
 				<div id="display">
@@ -38,4 +38,4 @@
 	</div>
 	</div>
 
-<?php include 'assets/sections/footer.php'; ?>
+<?php include '../../assets/sections/footer.php'; ?>

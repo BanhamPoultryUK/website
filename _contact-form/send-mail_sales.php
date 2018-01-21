@@ -1,13 +1,13 @@
 <?php
 
 // Where to send the mail to
-$to_email = 'sales@banhampoultryuk.com';
+$to_email = 'lewis.goddard@banhampoultryuk.com';
 
 /*
 This bit sets the URLs of the supporting pages.
 If you change the names of any of the pages, you will need to change the values here.
 */
-$form_page = 'pages/contact_us.php';
+$form_page = '../contact_us.php';
 $error_page = 'pages/form_error.php';
 $reply_page = 'pages/form_reply.php';
 
@@ -63,11 +63,14 @@ if ( !isset($_REQUEST['email']) ) {
 
 // If we passed all previous tests, send the email then redirect to the thank you page.
 } else {
-	mail(
+	$result = mail(
 		$to_email,
 		'Enquiry via Website',
 		$Message,
 		'From: '.$_REQUEST['email']
 	);
-	header('Location: '.$reply_page);
+	echo $to_email;
+	echo $Message;
+	var_dump($result);
+	//header('Location: '.$reply_page);
 }
