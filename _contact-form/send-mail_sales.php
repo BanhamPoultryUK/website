@@ -15,15 +15,16 @@ $reply_page = 'pages/form_reply.php';
 This next bit loads the form field data into variables.
 If you add a form field, you will need to add it here.
 */
-$email_address = $_REQUEST['email'] ;
-$Message = 'Title: '.$_REQUEST['suggestion'];
-$Message .= "\nName: ".$_REQUEST['name'];
-$Message .= "\nCompany Name: ".$_REQUEST['company_name'];
-$Message .= "\nJob Title: ".$_REQUEST['job_title'];
-$Message .= "\nEmail: ".$_REQUEST['confirm_email'];
-$Message .= "\nAddress: ".$_REQUEST['address'];
-$Message .= "\nTel No: ".$_REQUEST['tel_no'];
-$Message .= "\nEnquiry: \n\n".$_REQUEST['comments'];
+$email_address = $_POST['email'] ;
+$Message = 'Title: '.$_POST['suggestion'];
+$Message .= "\nName: ".$_POST['name'];
+$Message .= "\nCompany Name: ".$_POST['company_name'];
+$Message .= "\nJob Title: ".$_POST['job_title'];
+$Message .= "\nEmail: ".$_POST['confirm_email'];
+$Message .= "\nAddress: ".$_POST['address'];
+$Message .= "\nTel No: ".$_POST['tel_no'];
+$Message .= "\nEnquiry: \n\n".$_POST['comments'];
+var_dump($_POST);
 
 
 /*
@@ -50,7 +51,7 @@ function isInjected($str) {
 }
 
 // If the user tries to access this script directly, redirect them to the form.
-if ( !isset($_REQUEST['email']) ) {
+if ( !isset($_POST['email']) ) {
 	header('Location: '.$form_page);
 
 // If the form fields are empty, redirect to the error page.
@@ -67,7 +68,7 @@ if ( !isset($_REQUEST['email']) ) {
 		$to_email,
 		'Enquiry via Website',
 		$Message,
-		'From: '.$_REQUEST['email']
+		'From: '.$_POST['email']
 	);
 	echo $to_email;
 	echo $Message;
