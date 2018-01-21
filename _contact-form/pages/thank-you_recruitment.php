@@ -3,12 +3,12 @@
 	$Title = 'Banham Poultry Limited &#45; Careers';
 	$Description = 'Banham Poultry Limited - Suppliers of high quality fresh British chicken.';
 	$Keywords = 'banham poultry,banham group,fresh british chicken,poultry products,poultry processors,poultry farmer';
-	include 'assets/sections/header.php';
+	include '../../assets/sections/header.php';
 	
 ?>
 			<div id="display_bg">
 				<div id="display">
-					<img src="assets/images/contact_us.png" width="920" height="245" alt=""/>
+					<img src="/assets/images/contact_us.png" width="920" height="245" alt=""/>
 				</div>
 			</div>
 			<div id="main">
@@ -28,16 +28,16 @@
 					<form id="direction" action="http://maps.google.com/maps" method="get">
 						<input id="direction_input" type="text" onfocus="if(this.value=='Enter your postal code')this.value=''" onblur="if(this.value=='')this.value='Enter your postal code'" title="" value="Enter your postal code" name="saddr"/>
 						<input type="hidden" name="daddr" value="Banham Poultry, Station Road, Attleborough NR17 2AT, UK"/><br /><br />
-						<input id="direction_icon" type="image" src="assets/images/1340469161_Contacts.png" title="Get Directions" alt="Get Directions"/>
+						<input id="direction_icon" type="image" src="/assets/images/1340469161_Contacts.png" title="Get Directions" alt="Get Directions"/>
 					</form>
 				</div>
 			</div>
 			<div id="registration_div">
 				<h3 class="heading">Thank You</h3>
-				<img src="assets/images/1340028423_camera_test.png" width="66" height="66" title="" alt="" /><p>Thank you for sending us your CV, we will get back to you shortly.</p><br/><br/>
+				<img src="/assets/images/1340028423_camera_test.png" width="66" height="66" title="" alt="" /><p>Thank you for sending us your CV, we will get back to you shortly.</p><br/><br/>
 				<a class="email_link" href="careers.php">Back to Careers</a>
 		</div>
 	</div>
 	</div>
 		
-<?php include 'assets/sections/footer.php'; ?>
+<?php include '../../assets/sections/footer.php'; ?>
