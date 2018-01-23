@@ -12,7 +12,7 @@ PARTICULAR PURPOSE.
 
 @copyright html-form-guide.com 2010
 */
-require __DIR__.'/class.phpmailer.php';
+require 'class.phpmailer.php';
 
 /*
 Interface to Captcha handler
