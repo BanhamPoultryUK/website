@@ -93,12 +93,6 @@ Uses the excellent form validation script from JavaScript-coder.com-->
 					<li>Starting rate £7.85
 				</ul>
 				<br>
-				<h4>Production Operatives</h4>
-				<ul>
-					<li>Rotating Shifts 6am to 6.30pm (as per Live Hanger vacancy)
-					<li>Starting rate £7.65
-				</ul>
-				<br>
 				<h4>Production Operatives (Night Shift)</h4>
 				<ul>
 					<li>6.30pm to 3am (Monday to Friday)
