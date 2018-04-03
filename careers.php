@@ -98,6 +98,13 @@ Uses the excellent form validation script from JavaScript-coder.com-->
 					<li>6.30pm to 3am (Monday to Friday)
 					<li>Starting rate £7.65
 				</ul>
+				<br>
+				<h4>Assistant Department Manager</h4>
+				<ul>
+					<li>To assist in the management of the packing department.
+					<li>Previous supervisory experience is required.
+					<li>Nights – 18.30pm to 03.00am
+				</ul>
 				<!--
 				<p>We have no open positions at this time.</h4>
 				-->
