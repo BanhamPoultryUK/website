@@ -105,8 +105,14 @@ Uses the excellent form validation script from JavaScript-coder.com-->
 					<li>Previous supervisory experience is required.
 					<li>Nights – 18.30pm to 03.00am
 				</ul>
+				<br>
+				<h4>Dry Goods Storeperson</h4>
+				<ul>
+					<li>Fork Lift licence necessary.
+					<li>Monday - Friday 7.30am to 16.00pm.
+				</ul>
 				<!--
-				<p>We have no open positions at this time.</h4>
+				<p>We have no open positions at this time.</p>
 				-->
 				<br>
 				<hr>
