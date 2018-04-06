@@ -5,7 +5,8 @@
 				<div class="ft_links">
 					<a href="https://mailgate.banhampoultryuk.com/owa">Employee Mail</a><br />
 					<a href="/assets/files/BanhamPoultryModernSlaveryActStatement.pdf">Modern Slavery Act</a><br />
-					<a href="/assets/files/BanhamPoultryEthicalTradingPolicySummary.pdf">Ethical Trading Policy</a>
+					<a href="/assets/files/BanhamPoultryEthicalTradingPolicySummary.pdf">Ethical Trading Policy</a><br />
+					<a href="/assets/files/BanhamPoultryGenderGapReport.pdf">Gender Gap Report</a>
 				</div>
 				<div class="ft_links">
 					<a href="/agriculture.php">Agriculture</a><br />
