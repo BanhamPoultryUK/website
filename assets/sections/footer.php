@@ -3,7 +3,7 @@
 			<div id="ft_nav">
 				<p>Copyright &copy; 2015 Banham Poultry Limited<br />Registered Office: Station Road, Attleborough, Norfolk NR17 2AT United Kingdom<br />Registered in England &#38; Wales 7333101 &#124; VAT Registration No. 995 9214 62</p>
 				<div class="ft_links">
-					<a href="https://mailgate.banhampoultryuk.com/owa">Employee Mail</a><br />
+					<a href="https://mg.banhampoultryuk.com/owa">Employee Mail</a><br />
 					<a href="/assets/files/BanhamPoultryModernSlaveryActStatement.pdf">Modern Slavery Act</a><br />
 					<a href="/assets/files/BanhamPoultryEthicalTradingPolicySummary.pdf">Ethical Trading Policy</a><br />
 					<a href="/assets/files/BanhamPoultryGenderGapReport.pdf">Gender Gap Report</a>
