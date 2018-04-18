@@ -45,17 +45,13 @@
 						<h5 class="sub_heading">Frozen IQF Range</h5>
 						<p>Breast Fillets, Inner Fillets, Drumsticks, Thighs, Wings.</p>
 					</div>
-					<?php
-						// IF not passed the 22nd of December 2014
-						if( time() < 1419206400 ) {
-					?>
 					<div class="content_div">
-						<h5 class="sub_heading">Free Range</h5>
-						<p>Whole Chicken, Diced, Leg Quarters, Livers, Thighs, Drumsticks, Bulk Fillets, Breast Fillets.</p>
+						<h5 class="sub_heading">Halal</h5>
+						<p>We do not use Halal methods in any of our production.</p>
 					</div>
-					<?php
-						}
-					?>
+					<div class="content_div">
+						<p><em>At Banham Poultry we are committed to providing the highest quality products, every care and attention possible is taken to comply with all relevant UK & EEC legal and safety requirements. All of our produce is Red Tractor accredited.</em></p>
+					</div>
 				</div>
 			</div>
 		</div>
