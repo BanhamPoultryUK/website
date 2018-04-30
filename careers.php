@@ -90,20 +90,19 @@ Uses the excellent form validation script from JavaScript-coder.com-->
 				<ul>
 					<li>Previous hygiene experience desirable.
 					<li>10pm to 6am, Sunday-Thursday / Tuesday-Saturday.
-					<li>Starting rate £7.85
+					<li>£8.20 per hour
 				</ul>
 				<br>
-				<h4>Production Operatives (Night Shift)</h4>
+				<h4>Electrical/Mechanical Engineers</h4>
 				<ul>
-					<li>6.30pm to 3am (Monday to Friday)
-					<li>Starting rate £7.65
+					<li>Shift - 5 days on 5 days off 5 nights
+					<li>Competitive rates of pay
 				</ul>
 				<br>
-				<h4>Assistant Department Manager</h4>
+				<h4>Refrigeration Engineer</h4>
 				<ul>
-					<li>To assist in the management of the packing department.
-					<li>Previous supervisory experience is required.
-					<li>Nights – 18.30pm to 03.00am
+					<li>Shift – Monday to Friday days
+					<li>Competitive rates of pay
 				</ul>
 				<br>
 				<h4>Dry Goods Storeperson</h4>
