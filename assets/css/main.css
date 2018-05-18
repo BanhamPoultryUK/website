@@ -883,11 +883,14 @@ a:hover, #ft_nav a:focus {
     margin: 0 1rem;
 }
 table {
+	border-collapse: collapse;
 	width: 100%;
 }
 th,
 td {
+	border: 3px solid #ddd;
 	padding: 0.5rem;
+	text-align: left;
 }
 .bold {
 	font-weight: 700;
