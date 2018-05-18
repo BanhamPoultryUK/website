@@ -1,7 +1,7 @@
 	</div>
 		<div id="ft">
 			<div id="ft_nav">
-				<p>Copyright &copy; 2015 Banham Poultry Limited<br />Registered Office: Station Road, Attleborough, Norfolk NR17 2AT United Kingdom<br />Registered in England &#38; Wales 7333101 &#124; VAT Registration No. 995 9214 62</p>
+				<p>Copyright &copy; <?php echo date('Y'); ?> Banham Poultry Limited<br />Registered Office: Station Road, Attleborough, Norfolk NR17 2AT United Kingdom<br />Registered in England &#38; Wales 7333101 &#124; VAT Registration No. 995 9214 62</p>
 				<div class="ft_links">
 					<a href="https://mg.banhampoultryuk.com/owa">Employee Mail</a><br />
 					<a href="/assets/files/BanhamPoultryModernSlaveryActStatement.pdf">Modern Slavery Act</a><br />
@@ -40,5 +40,8 @@
 			if ( element ) element.className = element.className + ' current_page';
 			
 		</script>
+
+		<?php include __DIR__.'/cookie-compliance.php'; ?>
+
 	</body>
 </html>
