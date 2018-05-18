@@ -7,12 +7,6 @@
 	
 ?>
 
-		<div id="breadcrumbs_div">
-			<ul>
-				<li><a href="/" title="">Home<span>&nbsp;&#187;</span></a></li>
-				<li id="current_bc">Cookie Information</li>
-			</ul>
-		</div>
 		<div id="main">
 			<div id="main_content" class="wide">
 				<h3 class="heading">Cookie Information</h3>
