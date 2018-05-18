@@ -5,7 +5,7 @@ if ( !isset($_COOKIE['cookie_compliance']) ) {
 var BodyTag = document.getElementsByTagName('body')[0];
 var CookieComplianceBanner = document.createElement('div');
 CookieComplianceBanner.setAttribute('id', 'cookie-compliance-banner');
-CookieComplianceBanner.innerHTML = '<p>We use cookies on this site. <a class="close-cookie-banner" href="javascript:void(0);" onclick="removeMe();"><span>X</span></a></p>';
+CookieComplianceBanner.innerHTML = '<p>We use cookies on this site. You can read more in our <a href="/cookie-policy">Cookie Policy</a> <a class="close-cookie-banner" href="javascript:void(0);" onclick="removeMe();"><span>X</span></a></p>';
 BodyTag.insertBefore(CookieComplianceBanner, BodyTag.firstChild);
 document.getElementsByTagName('body')[0].className+=' has-cookie-compliance-banner';
 function removeMe() {

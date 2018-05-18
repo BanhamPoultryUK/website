@@ -860,3 +860,13 @@ a:hover, #ft_nav a:focus {
 	margin: 0 25px 0 0;
 	max-height: 75px;
 }
+
+#cookie-compliance-banner {
+    background: #eee;
+    text-align: center;
+    padding: 1rem;
+    width: 100%;
+}
+.close-cookie-banner {
+    margin: 0 1rem;
+}
