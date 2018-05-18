@@ -44,7 +44,7 @@
 							<td>No
 						</tr>
 						<tr>
-							<th colspan="6">Marks that the user has accepted the Cookie Compliance banner.
+							<td colspan="6">Marks that the user has accepted the Cookie Compliance banner.
 						</tr>
 						<tr>
 							<td>_ga
@@ -55,7 +55,7 @@
 							<td>Yes=
 						</tr>
 						<tr>
-							<th colspan="6">Used to distinguish users.
+							<td colspan="6">Used to distinguish users.
 						</tr>
 						<tr>
 							<td>_gid
@@ -66,7 +66,7 @@
 							<td>Yes
 						</tr>
 						<tr>
-							<th colspan="6">Used to distinguish users.
+							<td colspan="6">Used to distinguish users.
 						</tr>
 						<tr>
 							<td>_gat
@@ -77,7 +77,7 @@
 							<td>Yes
 						</tr>
 						<tr>
-							<th colspan="6">Used to throttle request rate.
+							<td colspan="6">Used to throttle request rate.
 						</tr>
 						<tr>
 							<td>AMP_TOKEN
@@ -88,7 +88,7 @@
 							<td>Yes
 						</tr>
 						<tr>
-							<th colspan="6">Contains a token that can be used to retrieve a Client ID from AMP Client ID service. Other possible values indicate opt-out, inflight request or an error retrieving a Client ID from AMP Client ID service.
+							<td colspan="6">Contains a token that can be used to retrieve a Client ID from AMP Client ID service. Other possible values indicate opt-out, inflight request or an error retrieving a Client ID from AMP Client ID service.
 						</tr>
 						<tr>
 							<td>_gac_&gt;property-id&lt;
@@ -99,7 +99,7 @@
 							<td>Yes
 						</tr>
 						<tr>
-							<th colspan="6">Contains campaign related information for the user. If you have linked your Google Analytics and AdWords accounts, AdWords website conversion tags will read this cookie unless you opt-out. <a href="https://support.google.com/adwords/answer/7521212" target="_blank">Learn more</a>.
+							<td colspan="6">Contains campaign related information for the user. If you have linked your Google Analytics and AdWords accounts, AdWords website conversion tags will read this cookie unless you opt-out. <a href="https://support.google.com/adwords/answer/7521212" target="_blank">Learn more</a>.
 						</tr>
 					</table>
 				</div>
