@@ -873,3 +873,6 @@ a:hover, #ft_nav a:focus {
 table {
 	width: 100%;
 }
+.bold {
+	font-weight: 700;
+}

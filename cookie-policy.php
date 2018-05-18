@@ -36,7 +36,7 @@
 							<th colspan="6">Description
 						</tr>
 						<tr>
-							<td>cookie_compliance
+							<td class="bold">cookie_compliance
 							<td>Preference
 							<td>First
 							<td>Permanent
@@ -47,18 +47,18 @@
 							<td colspan="6">Marks that the user has accepted the Cookie Compliance banner.
 						</tr>
 						<tr>
-							<td>_ga
+							<td class="bold">_ga
 							<td>Analytics
 							<td>Third
 							<td>Permanent
 							<td>2 years
-							<td>Yes=
+							<td>Yes
 						</tr>
 						<tr>
 							<td colspan="6">Used to distinguish users.
 						</tr>
 						<tr>
-							<td>_gid
+							<td class="bold">_gid
 							<td>Analytics
 							<td>Third
 							<td>Temporary
@@ -69,7 +69,7 @@
 							<td colspan="6">Used to distinguish users.
 						</tr>
 						<tr>
-							<td>_gat
+							<td class="bold">_gat
 							<td>Analytics
 							<td>Third
 							<td>Temporary
@@ -80,7 +80,7 @@
 							<td colspan="6">Used to throttle request rate.
 						</tr>
 						<tr>
-							<td>AMP_TOKEN
+							<td class="bold">AMP_TOKEN
 							<td>Analytics
 							<td>Third
 							<td>Temporary / Permanent
@@ -91,7 +91,7 @@
 							<td colspan="6">Contains a token that can be used to retrieve a Client ID from AMP Client ID service. Other possible values indicate opt-out, inflight request or an error retrieving a Client ID from AMP Client ID service.
 						</tr>
 						<tr>
-							<td>_gac_&gt;property-id&lt;
+							<td class="bold">_gac_&lt;property-id&gt;
 							<td>Analytics
 							<td>Third
 							<td>Permanent
