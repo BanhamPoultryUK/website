@@ -131,6 +131,11 @@ ul, ol {
 	width: 950px;
 	margin: 0 0 25px 0;
 }
+#main { 
+	float: left;
+	width: 950px;
+	margin: 0 0 25px 0;
+}
 .ie7 #main {
 	height: 615px;
 }
@@ -494,6 +499,13 @@ ul, ol {
 	width: 635px;
 	margin: 15px 25px 15px 0;
 	padding-left: 28px;
+	color: #606060;
+}
+#main_content.wide {
+	float: left;
+	width: 950px;
+	margin: 0 25px 0 0;
+	padding-left: 0;
 	color: #606060;
 }
 #main_content p {
@@ -872,6 +884,10 @@ a:hover, #ft_nav a:focus {
 }
 table {
 	width: 100%;
+}
+th,
+td {
+	padding: 0.5rem;
 }
 .bold {
 	font-weight: 700;
