@@ -13,7 +13,7 @@
 				<li id="current_bc">Cookie Policy</li>
 			</ul>
 		</div>
-		<div id="main_prod">
+		<div id="main">
 			<div id="content_div">
 				<!--
 				<a href="#mark_desc">&#187; Market Description</a><br />
