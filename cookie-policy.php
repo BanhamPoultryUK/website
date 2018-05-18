@@ -6,6 +6,7 @@
 	include 'assets/sections/header.php';
 	
 ?>
+
 		<div id="breadcrumbs_div">
 			<ul>
 				<li><a href="/" title="">Home<span>&nbsp;&#187;</span></a></li>
@@ -13,6 +14,12 @@
 			</ul>
 		</div>
 		<div id="main_prod">
+			<div id="content_div">
+				<!--
+				<a href="#mark_desc">&#187; Market Description</a><br />
+				<a href="#profile">&#187; Product Profile</a>
+				-->
+			</div>
 			<div id="main_content">
 				<div class="content_div">
 					<h3 class="heading">Cookie Compliance</h3>

@@ -870,3 +870,6 @@ a:hover, #ft_nav a:focus {
 .close-cookie-banner {
     margin: 0 1rem;
 }
+table {
+	width: 100%;
+}
