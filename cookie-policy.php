@@ -31,7 +31,9 @@
 							<th>Persistence
 							<th>Expiration Time
 							<th>Personally Identifiable
-							<th>Description
+						</tr>
+						<tr>
+							<th colspan="6">Description
 						</tr>
 						<tr>
 							<td>cookie_compliance
@@ -40,7 +42,9 @@
 							<td>Permanent
 							<td>2038-01-19
 							<td>No
-							<td>Marks that the user has accepted the Cookie Compliance banner.
+						</tr>
+						<tr>
+							<th colspan="6">Marks that the user has accepted the Cookie Compliance banner.
 						</tr>
 						<tr>
 							<td>_ga
@@ -48,8 +52,10 @@
 							<td>Third
 							<td>Permanent
 							<td>2 years
-							<td>Yes
-							<td>Used to distinguish users.
+							<td>Yes=
+						</tr>
+						<tr>
+							<th colspan="6">Used to distinguish users.
 						</tr>
 						<tr>
 							<td>_gid
@@ -58,7 +64,9 @@
 							<td>Temporary
 							<td>24 hours
 							<td>Yes
-							<td>Used to distinguish users.
+						</tr>
+						<tr>
+							<th colspan="6">Used to distinguish users.
 						</tr>
 						<tr>
 							<td>_gat
@@ -67,7 +75,9 @@
 							<td>Temporary
 							<td>1 minute
 							<td>Yes
-							<td>Used to throttle request rate.
+						</tr>
+						<tr>
+							<th colspan="6">Used to throttle request rate.
 						</tr>
 						<tr>
 							<td>AMP_TOKEN
@@ -76,7 +86,9 @@
 							<td>Temporary / Permanent
 							<td>30 seconds to 1 year
 							<td>Yes
-							<td>Contains a token that can be used to retrieve a Client ID from AMP Client ID service. Other possible values indicate opt-out, inflight request or an error retrieving a Client ID from AMP Client ID service.
+						</tr>
+						<tr>
+							<th colspan="6">Contains a token that can be used to retrieve a Client ID from AMP Client ID service. Other possible values indicate opt-out, inflight request or an error retrieving a Client ID from AMP Client ID service.
 						</tr>
 						<tr>
 							<td>_gac_&gt;property-id&lt;
@@ -85,7 +97,9 @@
 							<td>Permanent
 							<td>90 days
 							<td>Yes
-							<td>Contains campaign related information for the user. If you have linked your Google Analytics and AdWords accounts, AdWords website conversion tags will read this cookie unless you opt-out. <a href="https://support.google.com/adwords/answer/7521212" target="_blank">Learn more</a>.
+						</tr>
+						<tr>
+							<th colspan="6">Contains campaign related information for the user. If you have linked your Google Analytics and AdWords accounts, AdWords website conversion tags will read this cookie unless you opt-out. <a href="https://support.google.com/adwords/answer/7521212" target="_blank">Learn more</a>.
 						</tr>
 					</table>
 				</div>
