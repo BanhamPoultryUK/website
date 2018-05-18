@@ -14,14 +14,9 @@
 			</ul>
 		</div>
 		<div id="main">
-			<div id="content_div">
-				<!--
-				<a href="#mark_desc">&#187; Market Description</a><br />
-				<a href="#profile">&#187; Product Profile</a>
-				-->
-			</div>
 			<div id="main_content" class="wide">
 				<h3 class="heading">Cookie Policy</h3>
+				<p>Cookies are small files managed by your web browser that websites can request to store small snippets of information. They are usually used for storing preferences, session, or tracking information. The table below details all the cookies currently used on BanhamPoultryUK.com</p>
 				<table>
 					<tr>
 						<th>Cookie Name
