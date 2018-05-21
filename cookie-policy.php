@@ -1,6 +1,6 @@
 <?php
 	
-	$Title = 'Banham Poultry Limited &#45; Cookie Information';
+	$Title = 'Banham Poultry Limited &#45; Cookie Policy';
 	$Description = 'Cookies are small files managed by your web browser that websites can request to store small snippets of information. They are usually used for storing preferences, session, or tracking information. The table below details all the cookies currently used on BanhamPoultryUK.com';
 	$Keywords = 'banham poultry,banham group,fresh british chicken,poultry products,poultry processors,poultry farmers';
 	include 'assets/sections/header.php';
@@ -9,7 +9,7 @@
 
 		<div id="main">
 			<div id="main_content" class="wide">
-				<h3 class="heading">Cookie Information</h3>
+				<h3 class="heading">Cookie Policy</h3>
 				<p>Cookies are small files managed by your web browser that websites can request to store small snippets of information. They are usually used for storing preferences, session, or tracking information. The table below details all the cookies currently used on BanhamPoultryUK.com</p>
 				<table>
 					<tr>
