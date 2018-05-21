@@ -875,6 +875,7 @@ a:hover, #ft_nav a:focus {
 
 #cookie-compliance-banner {
     background: #eee;
+	box-sizing: border-box;
     text-align: center;
     padding: 1rem;
     width: 100%;
@@ -894,4 +895,7 @@ td {
 }
 .bold {
 	font-weight: 700;
+}
+.italic {
+	font-style: italic;
 }
