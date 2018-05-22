@@ -22,4 +22,4 @@ There is a staging environment at [www.banhampoultryuk.com.local](http://www.ban
 This is hosted on `BanLinux`.
 
 # Deployment
-Upload changed files from your local copy to the webhost.
+Deployment is automatic once pushed to the repository.
