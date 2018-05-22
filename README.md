@@ -1,6 +1,6 @@
 # Information
 
-The website hosted at [banhampoultryuk.com](http://banhampoultryuk.com)
+The website hosted at [banhampoultryuk.com](https://banhampoultryuk.com)
 
 Development hosted at [github.com/BanhamPoultryUK/Website](https://github.com/BanhamPoultryUK/Website)
 
