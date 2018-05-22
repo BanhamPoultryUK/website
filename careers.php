@@ -54,6 +54,8 @@ if ( isset($_POST['submitted']) ) {
 				<span id='contactus_photo_errorloc' class='error'></span>
 			</div>
 			<div class='container'>
+				<p>By submitting your details you consent to Banham Poultry Limited retaining them for legitimate business interests in line with current GDPR legislation.</p>
+				<br />
 				<input type='submit' id='submit' name='Submit' value='Send' />
 			</div>
 		</fieldset>
