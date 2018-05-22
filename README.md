@@ -6,7 +6,7 @@ Development hosted at [github.com/BanhamPoultryUK/Website](https://github.com/Ba
 
 # Technologies
 - Linux
-- Apache
+- Nginx
 - PHP
 - HTML
 - CSS
