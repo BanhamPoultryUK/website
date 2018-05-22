@@ -1,9 +1,4 @@
-<?php
-
-	include 'assets/sections/www-redirect.php';
-	date_default_timezone_set('Europe/London');
-
-?><!DOCTYPE html>
+<?php date_default_timezone_set('Europe/London'); ?><!DOCTYPE html>
 <!--
 	
 	Copyright Banham Poultry Limited, 2014
