@@ -106,12 +106,6 @@ Uses the excellent form validation script from JavaScript-coder.com-->
 					<li>Shift – Monday to Friday days
 					<li>Competitive rates of pay
 				</ul>
-				<br>
-				<h4>Dry Goods Storeperson</h4>
-				<ul>
-					<li>Forklift licence desirable however training would be provided for suitable applicants
-					<li>Monday - Friday 7.30am to 16.00pm.
-				</ul>
 				<!--
 				<p>We have no open positions at this time.</p>
 				-->
