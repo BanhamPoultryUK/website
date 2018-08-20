@@ -33,8 +33,8 @@
 	<meta name="msapplication-config" content="/assets/favicons/browserconfig.xml">
 	<meta name="theme-color" content="#ffffff">
 	
-	<link rel="stylesheet" type="text/css" media="all" href="//cdn.jsdelivr.net/g/normalize" />
-	<link rel="stylesheet" type="text/css" media="all" href="//fonts.googleapis.com/css?family=Lato:400,700,400italic" />
+	<link rel="stylesheet" type="text/css" media="all" href="https://cdn.jsdelivr.net/combine/gh/eustasy/colors.css@1/colors.min.css,gh/necolas/normalize.css@8/normalize.min.css" />
+	<link rel="stylesheet" type="text/css" media="all" href="https://fonts.googleapis.com/css?family=Lato:400,700,400italic" />
 	<link rel="stylesheet" type="text/css" media="all" href="/assets/css/main.css" />
 	<link rel="stylesheet" type="text/css" media="print" href="/assets/css/print.css" />
 	<?php if ( !empty($Custom) ) echo $Custom; ?>
