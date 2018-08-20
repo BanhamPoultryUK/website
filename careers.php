@@ -107,7 +107,7 @@ Uses the excellent form validation script from JavaScript-coder.com-->
 					<li>Competitive rates of pay
 				</ul>
 				<br>
-				<h4>>Dry Goods Storeperson</h4>
+				<h4>Dry Goods Storeperson</h4>
 				<ul>
 					<li>Days 7.30am to 4pm
 					<li>FLT licence
