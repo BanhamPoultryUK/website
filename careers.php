@@ -78,14 +78,10 @@ Uses the excellent form validation script from JavaScript-coder.com-->
 				<br>
 				<hr>
 				<br>
-				<h4>IMMEDIATE START AVAILABLE - PERMANENT JOB</h4>
+				<h4>Production Operatives</h4>
 				<ul>
-					<li>We are currently looking for Live Bird Hangers to join our team, working days.
-					<li>Full training can be given and you will require a certificate of competence which we will fund.
-					<li>This is a permanent job working 37.5 hours per week on a continental style shift system 6am - 6.30pm 3 days per week (Thursday, Friday, Saturday – Sunday Off and Monday, Tuesday, Wednesday followed by 7 days off )
-					<li>Extra shifts are available and the job will pay £9.00 per hour (plus paid breaks).
-					<li>This job would be ideal for anyone with a background in poultry, live bird catching or collection.
-					<li>Overtime is available
+					<li>Shift Thursday, Friday, Saturday, Monday, Tuesday, Wednesday then 7 days off.
+					<li>Attractive rates of pay.
 				</ul>
 				<br>
 				<h4>Hygiene Cleaners (Night Shift)</h4>
