@@ -102,15 +102,6 @@ Uses the excellent form validation script from JavaScript-coder.com-->
 					<li>Shift – Monday to Friday days
 					<li>Competitive rates of pay
 				</ul>
-				<br>
-				<h4>Dry Goods Storeperson</h4>
-				<ul>
-					<li>Days 7.30am to 4pm
-					<li>FLT licence
-					<li>Experience of working in confined spaces
-					<li>Computer skills
-					<li>Previous experience although training will be given
-				</ul>
 				<!--
 				<p>We have no open positions at this time.</p>
 				-->
