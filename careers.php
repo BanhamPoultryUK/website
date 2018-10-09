@@ -81,7 +81,7 @@ Uses the excellent form validation script from JavaScript-coder.com-->
 				<h4>Production Operatives</h4>
 				<ul>
 					<li>Shift Thursday, Friday, Saturday, Monday, Tuesday, Wednesday then 7 days off.
-					<li>Attractive rates of pay.
+					<li>£8.05 per hour
 				</ul>
 				<br>
 				<h4>Hygiene Cleaners (Night Shift)</h4>
