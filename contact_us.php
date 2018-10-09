@@ -1,6 +1,6 @@
 <?php
 
-	$Title = 'Banham Poultry Limited &#45; Contact Us';
+	$Title = 'Banham Poultry &middot; Contact Us';
 	$Description = 'Write to us, contact us, get directions to our site and request product literature.';
 	$Keywords = 'banham poultry,banham group,fresh british chicken,poultry products,poultry processors,poultry farmers';
 	include 'assets/sections/header.php';
@@ -10,7 +10,7 @@
 				<div id="contact_div">
 					<div class="detail">
 						<h3 class="heading">Write to us</h3>
-						<p>Banham Poultry Limited<br />Station Road<br />Attleborough<br />Norfolk<br />NR17 2AT<br />United Kingdom</p>
+						<p>Banham Poultry (2018) Limited<br />Station Road<br />Attleborough<br />Norfolk<br />NR17 2AT<br />United Kingdom</p>
 					</div>
 					<div class="detail">
 						<h3 class="heading">Contact us</h3>

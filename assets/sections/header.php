@@ -1,7 +1,7 @@
 <?php date_default_timezone_set('Europe/London'); ?><!DOCTYPE html>
 <!--
 	
-	Copyright Banham Poultry Limited, 2014
+	Copyright Banham Poultry (2018) Limited
 	
 	Based on the original design and development by Lucy Brooks
 	Email: lucybrooks01@aol.com
@@ -16,9 +16,9 @@
 	
 	<meta charset="utf-8" />
 	
-	<title><?php echo (!empty($Title) ? $Title : 'Welcome to Banham Poultry Limited &#45; Suppliers of High Quality Fresh Norfolk Chicken'); ?></title>
+	<title><?php echo (!empty($Title) ? $Title : 'Welcome to Banham Poultry &middot; Suppliers of High Quality Fresh Norfolk Chicken'); ?></title>
 	
-	<meta name="description" content="<?php echo (!empty($Description) ? $Description : 'We are the biggest employer in the mid Norfolk constituency and we produce the best quality chicken anywhere to be found. Banham Poultry Limited as a company is committed to providing the highest quality products and service to all our customers.'); ?>" />
+	<meta name="description" content="<?php echo (!empty($Description) ? $Description : 'We are the biggest employer in the mid Norfolk constituency and we produce the best quality chicken anywhere to be found. Banham Poultry as a company is committed to providing the highest quality products and service to all our customers.'); ?>" />
 	<meta name="keywords" content="<?php echo (!empty($Keywords) ? $Keywords : 'banham poultry,banham group,fresh british chicken,poultry products,poultry processors,poultry farmers'); ?>" />
 	
 	<meta name="google-site-verification" content="TLOdfBwhEPBj9pcV6yeqJ4Y3N4Af-Xs0WIIpKQ5d5z4" />

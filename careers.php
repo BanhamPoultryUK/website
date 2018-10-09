@@ -1,7 +1,7 @@
 <?php
 
-	$Title = 'Banham Poultry Limited &#45; Careers';
-	$Description = 'Search for vacancies at Banham Poultry Limited.';
+	$Title = 'Banham Poultry &middot; Careers';
+	$Description = 'Search for vacancies at Banham Poultry.';
 	$Keywords = 'banham poultry,banham group,fresh british chicken,poultry products,poultry processors,poultry farmers';
 	$Custom = '<script type="text/javascript" src="assets/js/gen_validatorv31.js"></script>';
 	include 'assets/sections/header.php';
@@ -54,7 +54,7 @@ if ( isset($_POST['submitted']) ) {
 				<span id='contactus_photo_errorloc' class='error'></span>
 			</div>
 			<div class='container'>
-				<p>By submitting your details you consent to Banham Poultry Limited retaining them for legitimate business interests in line with current GDPR legislation.</p>
+				<p>By submitting your details you consent to Banham Poultry (2018) Limited retaining them for legitimate business interests in line with current GDPR legislation.</p>
 				<br />
 				<input type='submit' id='submit' name='Submit' value='Send' />
 			</div>

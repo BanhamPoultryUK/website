@@ -1,6 +1,6 @@
 <?php
-	$Title = 'Banham Poultry Limited &#45; Agricultural Services &#45; Campylobacter: Your Questions Answered';
-	$Description = 'Banham Poultry Limited still a family run business, has always been a forward thinking company and usually involved in cutting edge technology with regards to processing. The company manage and operates a group of rearing farms providing first class laying flocks that provide our own hatchery with first class eggs for setting and hatching, ensuring the best quality control when placing chicks in our broiler farms.';
+	$Title = 'Banham Poultry &middot; Agricultural Services &middot; Campylobacter: Your Questions Answered';
+	$Description = 'Banham Poultry still a family run business, has always been a forward thinking company and usually involved in cutting edge technology with regards to processing. The company manage and operates a group of rearing farms providing first class laying flocks that provide our own hatchery with first class eggs for setting and hatching, ensuring the best quality control when placing chicks in our broiler farms.';
 	$Keywords = 'banham poultry,banham group,fresh british chicken,poultry products,poultry processors,poultry farmers';
 	include 'assets/sections/header.php';
 ?>
