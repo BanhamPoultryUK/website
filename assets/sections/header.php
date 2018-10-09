@@ -54,7 +54,10 @@
 		<div id="hd">
 			<a href="/"><img id="hd_logo" src="/assets/images/new_hd.png" width="326" height="115" title="" alt="" /></a>
 			<div id="hd_links">
-				<a href="/assets/files/BanhamPoultryPrivacyPolicy.pdf" title="">Privacy Policy</a><span>&nbsp;&#124;</span>
+				<a href="/cookie-policy">Cookie Policy</a>
+				<span>&nbsp;&middot;&nbsp;</span>
+				<a href="/assets/files/BanhamPoultryPrivacyPolicy.pdf" title="">Privacy Policy</a>
+				<span>&nbsp;&middot;&nbsp;</span>
 				<a href="/assets/files/BanhamPoultryTermsOfUse.pdf" title="">Terms of Use</a>
 			</div>
 		</div>
