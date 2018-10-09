@@ -17,8 +17,7 @@
 				<div id="content_div">
 					<a href="#hatch">&#187; Agricultural Services</a><br>
 					<a href="#bird">&#187; Bird Welfare &#38; Food Safety</a><br>
-					<a href="agriculture_campylobacter.php">&#187; Campylobacter – Your Questions Answered</a><br>
-					<a href="assets/files/BPL-20013 Antibiotic Stewardship Group Statement.pdf">&#187; Antibiotic Stewardship Group Statement</a>
+					<a href="agriculture_campylobacter.php">&#187; Campylobacter – Your Questions Answered</a>
 				</div>
 			<div id="main_content">
 				<div class="content_div">

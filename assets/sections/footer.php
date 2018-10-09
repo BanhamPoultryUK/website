@@ -5,15 +5,12 @@
 					Registered Office: Station Road, Attleborough, Norfolk NR17 2AT United Kingdom<br />
 					Registered in England &amp; Wales 11606211 <!-- TODO VAT Registration &middot; VAT Registration No. 995 9214 62--></p>
 				<div class="ft_links">
-					<a href="https://mg.banhampoultryuk.com/owa">Employee Mail</a><br />
-					<a href="/assets/files/BanhamPoultryModernSlaveryActStatement.pdf">Modern Slavery Act</a><br />
-					<a href="/assets/files/BanhamPoultryEthicalTradingPolicySummary.pdf">Ethical Trading Policy</a><br />
-					<a href="/assets/files/BanhamPoultryGenderGapReport.pdf">Gender Gap Report</a>
+					<a href="/careers.php">Careers</a><br />
+					<a href="https://mg.banhampoultryuk.com/owa">Employee Mail</a>
 				</div>
 				<div class="ft_links">
 					<a href="/agriculture.php">Agriculture</a><br />
 					<a href="/environment.php">Environment</a><br />
-					<a href="/careers.php">Careers</a><br />
 					<a href="/contact_us.php">Contact Us</a>
 				</div>
 				<div class="ft_links">
