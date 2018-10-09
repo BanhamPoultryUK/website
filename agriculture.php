@@ -1,6 +1,6 @@
 <?php
-	$Title = 'Banham Poultry Limited &#45; Agricultural Services';
-	$Description = 'Banham Poultry Limited still a family run business, has always been a forward thinking company and usually involved in cutting edge technology with regards to processing. The company manage and operates a group of rearing farms providing first class laying flocks that provide our own hatchery with first class eggs for setting and hatching, ensuring the best quality control when placing chicks in our broiler farms.';
+	$Title = 'Banham Poultry &middot; Agricultural Services';
+	$Description = 'Banham Poultry has always been a forward thinking company and usually involved in cutting edge technology with regards to processing. The company manage and operates a group of rearing farms providing first class laying flocks that provide our own hatchery with first class eggs for setting and hatching, ensuring the best quality control when placing chicks in our broiler farms.';
 	$Keywords = 'banham poultry,banham group,fresh british chicken,poultry products,poultry processors,poultry farmers';
 	include 'assets/sections/header.php';
 ?>
@@ -17,8 +17,7 @@
 				<div id="content_div">
 					<a href="#hatch">&#187; Agricultural Services</a><br>
 					<a href="#bird">&#187; Bird Welfare &#38; Food Safety</a><br>
-					<a href="agriculture_campylobacter.php">&#187; Campylobacter – Your Questions Answered</a><br>
-					<a href="assets/files/BPL-20013 Antibiotic Stewardship Group Statement.pdf">&#187; Antibiotic Stewardship Group Statement</a>
+					<a href="agriculture_campylobacter.php">&#187; Campylobacter – Your Questions Answered</a>
 				</div>
 			<div id="main_content">
 				<div class="content_div">
@@ -26,7 +25,7 @@
 					<p>Chickens are reared in large purpose-built houses on deep litter of chopped straw and wood shavings. They are reared from a day old until their weight reaches around 2kg in about 40 days. In preparation for the arrival of the new chicks, all old litter used by the previous flock will have been removed and the whole house thoroughly cleaned and disinfected. Like most newly born warm blooded animals, chicks are sensitive to cold and infection. So they are gently removed from the trays and placed on the new litter under heat lamps (brooders) to keep them warm. As they grow they roam and forage throughout the house, eating and drinking as they wish.</p>
 <p>The housing and equipment (ventilation, drinkers and feeders), and the feed itself are designed to meet the birds environmental and nutritional needs. The birds are given a healthy, scientifically formulated diet, clean water, a comfortable temperature and fresh air in well lit surroundings, with good space for movement, all of which benefit their welfare. 
 Good stockman ship is fundamental. Trained personnel inspect the birds in the house every day, usually checking three times. They walk the entire length of the floor, up and down, inspecting the birds in all parts of the house, using their training and experience to pick out any birds which require attention.<br /><br /> 
-Strict hygiene control (bio&#45;security) is a key part of all poultry farming with stringent procedures in place throughout the life of the flock to prevent or control any disease entering the flock. 
+Strict hygiene control (bio&middot;security) is a key part of all poultry farming with stringent procedures in place throughout the life of the flock to prevent or control any disease entering the flock. 
 Infection and disease can be carried into the house by stockmen and visitors, by rodents and wild birds and by contaminated feed or water. All these potential routes must be controlled. Houses and equipment are thoroughly cleaned and disinfected once the birds have been taken to the processing plant and the litter removed, before the new flock of day old chicks are placed. Further information is available from the <a id="link" href="http://www.britishpoultry.org.uk/">British Poultry Council.</a></p>
 				</div>
 				<div class="content_div">

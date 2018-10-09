@@ -1,6 +1,6 @@
 <?php
 	
-	$Title = 'Banham Poultry Limited &#45; Product Profile';
+	$Title = 'Banham Poultry &middot; Product Profile';
 	$Description = 'As a company we our committed to providing the highest quality products and service to all our customers. We consider that the quality of the product supplied to our customers is of the utmost importance to the long term success and growth of our company. The Company supplies chicken to major supermarkets, and other established stores and wholesalers throughout the UK.';
 	$Keywords = 'banham poultry,banham group,fresh british chicken,poultry products,poultry processors,poultry farmers';
 	include 'assets/sections/header.php';
@@ -30,7 +30,7 @@
 				</div>
 				<div class="content_div">
 					<h3 class="heading" id="profile">Product Profile</h3>
-					<p>Products currently supplied by Banham Poultry Limited</p>
+					<p>Products currently supplied by Banham Poultry</p>
 					<h5 class="sub_heading">Fresh Range</h5>
 					<p>Leak Proof Oven Ready Whole Bird, Boneless/Skinless Breast Fillet, Skin-On Breast Fillet, Oyster Cut Thighs, Drumsticks, Oyster Cut Legs, Leg Quarters, Rotisserie, Hearts, Wings, Gizzards, Liver Tubs, Inner Breast Fillet/Goujons, Diced/Sliced Breast Fillet.</p>
 					</div>
