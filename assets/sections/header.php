@@ -52,7 +52,7 @@
 <body>
 	<div id="wrapper">
 		<div id="hd">
-			<a href="/"><img id="hd_logo" src="/assets/images/new_hd.png" width="326" height="115" title="" alt="" /></a>
+			<a href="/"><img id="hd_logo" src="/assets/images/new_hd.png" title="" alt="" /></a>
 			<div id="hd_links">
 				<a href="/cookie-policy">Cookie Policy</a>
 				<span>&nbsp;&middot;&nbsp;</span>
