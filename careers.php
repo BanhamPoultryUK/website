@@ -84,11 +84,15 @@ Uses the excellent form validation script from JavaScript-coder.com-->
 					<li>£8.05 per hour
 				</ul>
 				<br>
-				<h4>Hygiene Cleaners (Night Shift)</h4>
+				<h4>Night Hygiene Operatives</h4>
 				<ul>
 					<li>Previous hygiene experience desirable.
-					<li>10pm to 6am, Sunday-Thursday / Tuesday-Saturday.
-					<li>£8.20 per hour
+					<li>Shifts:
+					<ul>
+						<li>Sunday-Thursday (10pm-6am)
+						<li>Tuesday-Saturday (Tuesday-Friday 10pm-6am / Saturday 6.30pm-2.30am)
+					</ul>
+					<li>£8.60 per hour
 				</ul>
 				<br>
 				<h4>Electrical/Mechanical Engineers</h4>
