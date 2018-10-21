@@ -6,7 +6,7 @@
 					Registered in England &amp; Wales 11606211 <!-- TODO VAT Registration &middot; VAT Registration No. 995 9214 62--></p>
 				<div class="ft_links">
 					<a href="/careers.php">Careers</a><br />
-					<a href="https://mg.banhampoultryuk.com/owa">Employee Mail</a>
+					<a href="https://mail.banhampoultryuk.com/owa/">Employee Mail</a>
 				</div>
 				<div class="ft_links">
 					<a href="/agriculture.php">Agriculture</a><br />

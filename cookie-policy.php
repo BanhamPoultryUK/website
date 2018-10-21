@@ -102,7 +102,7 @@
 						<td colspan="7">Contains campaign related information for the user. If you have linked your Google Analytics and AdWords accounts, AdWords website conversion tags will read this cookie unless you opt-out. <a href="https://support.google.com/adwords/answer/7521212" target="_blank">Learn more</a>.
 					</tr>
 					<tr>
-						<td>mg.BanhamPoultryUK.com
+						<td>mail.BanhamPoultryUK.com
 						<td class="italic">Various
 						<td>Various
 						<td>First
