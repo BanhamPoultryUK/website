@@ -3,7 +3,8 @@
 			<div id="ft_nav">
 				<p>Copyright &copy; <?php echo date('Y'); ?> Banham Poultry (2018) Limited &middot; Trading as "Banham Poultry"<br />
 					Registered Office: 5 Coulman Street, Thorne, Doncaster, England, DN8 5JT<br />
-					Registered in England &amp; Wales 11606211 <!-- TODO VAT Registration &middot; VAT Registration No. 995 9214 62--></p>
+					Registered in England &amp; Wales 11606211<br />
+					VAT Registration No. 307 0082 45</p>
 				<div class="ft_links">
 					<a href="/careers.php">Careers</a><br />
 					<a href="https://mail.banhampoultryuk.com/owa/">Employee Mail</a>
