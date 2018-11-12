@@ -7,6 +7,7 @@
 					VAT Registration No. 307 0082 45</p>
 				<div class="ft_links">
 					<a href="/careers.php">Careers</a><br />
+					<a href="/assets/files/BanhamPoultryModernSlaveryActStatement.pdf">Modern Slavery Act</a><br />
 					<a href="https://mail.banhampoultryuk.com/owa/">Employee Mail</a>
 				</div>
 				<div class="ft_links">
