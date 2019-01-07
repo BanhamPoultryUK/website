@@ -1,6 +1,6 @@
 <?php
 	$Title = 'Banham Poultry &middot; About Us';
-	$Description = 'Our production starts with egg prodution, hatching chicks and then rearing the chickens to very high welfare standards. Processing takes place at our Attleborough plant (about 12 miles south of Norwich). The plant maintains high standards and is continually verified with constant auditing by the Meat Hygiene Service.';
+	$Description = 'Our production starts with egg prodution, hatching chicks and then rearing the chickens to very high welfare standards. Processing takes place at our Attleborough plant (about 12 miles south of Norwich). The plant maintains high standards and is continually verified with constant auditing by the Food Standards Agency.';
 	$Keywords = 'banham poultry,banham group,fresh british chicken,poultry products,poultry processors,poultry farmers';
 	include 'assets/sections/header.php';
 ?>
@@ -37,7 +37,7 @@
 				</div>
 				<div class="content_div">
 					<h3 class="heading" id="comp_pro">Company Profile</h3>
-					<p>Banham Poultry has always been a forward thinking company and usually involved in cutting edge technology with regards to processing. The company manage and operates a group of rearing farms providing first class laying flocks that provide our own hatchery with first class eggs for setting and hatching, ensuring the best quality control when placing chicks in our broiler farms. All elements of the agricultural process are audited to ACP standards and conform to many retail protocols.<br /><br />The company runs its own transport department covering live transport, chilled and frozen distribution. Our distribution reaches every corner of the UK, and we also operate with third party companies in a strong export market.<br /><br />Processing takes place at our Attleborough plant (about 12 miles south of Norwich). The plant maintains high standards and is continually verified with constant auditing by the Meat Hygiene Service, and consistently achieves the highest grade within the criteria of EFSIS auditing &#8220;Category A for Slaughter and Cutting&#8221;.
+					<p>Banham Poultry has always been a forward thinking company and usually involved in cutting edge technology with regards to processing. The company manage and operates a group of rearing farms providing first class laying flocks that provide our own hatchery with first class eggs for setting and hatching, ensuring the best quality control when placing chicks in our broiler farms. All elements of the agricultural process are audited to ACP standards and conform to many retail protocols.<br /><br />The company runs its own transport department covering live transport, chilled and frozen distribution. Our distribution reaches every corner of the UK, and we also operate with third party companies in a strong export market.<br /><br />Processing takes place at our Attleborough plant (about 12 miles south of Norwich). The plant maintains high standards and is continually verified with constant auditing by the Food Standards Agency, and consistently achieves the highest grade within the criteria of EFSIS auditing &#8220;Category A for Slaughter and Cutting&#8221;.
 </p>
 				</div>
 			</div>
