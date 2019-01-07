@@ -15,6 +15,11 @@ $replyto = $_POST['email'] ;
 $Message = "\nName: ".$_POST['name'];
 $Message .= "\nEmail: ".$_POST['email'];
 $Message .= "\nEnquiry: \n\n".$_POST['message'];
+//$_FILES['cv']['name']
+//$_FILES['cv']['type']
+//$_FILES['cv']['size']
+//$_FILES['cv']['tmp_name']
+//$_FILES['cv']['error']
 
 // ***** END CONFIG *****
 

@@ -24,11 +24,14 @@
 				<h3><label for='message' >Message</label></h3>
 				<textarea rows="10" cols="50" name='message' id='message'></textarea>
 			</div>
+			<!-- TODO File uploads
 			<div style="clear:both"></div>
 			<div class='container'>
-				<h3><label for='photo' >Upload your CV</label></h3>
+				<h3><label for='cv' >Upload your CV</label></h3>
+				<input type="hidden" name="MAX_FILE_SIZE" value="20000000" />
 				<input type="file" name='cv' id='cv' /><br/>
 			</div>
+			-->
 			<div class='container'>
 				<p>By submitting your details you consent to Banham Poultry (2018) Limited retaining them for legitimate business interests in line with current GDPR legislation.</p>
 				<br />
