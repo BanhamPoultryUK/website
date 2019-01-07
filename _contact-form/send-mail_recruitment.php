@@ -5,23 +5,19 @@ use PHPMailer\PHPMailer\Exception;
 // ***** BEGIN CONFIG *****
 
 // Where to send the mail to
-$to_email = 'sales@banhampoultryuk.com';
+//$to_email = 'recruitment@banhampoultryuk.com';
+$to_email = 'it@banhampoultryuk.com';
 
 // This bit sets the URLs of the supporting pages.
 // If you change the names of any of the pages, you will need to change the values here.
 $form_page = '../contact_us.php';
-$reply_page = 'pages/thank-you_sales.php';
+$reply_page = 'pages/thank-you_recruitment.php';
 
 // This next bit loads the form field data into variables.
 // If you add a form field, you will need to add it here.
 $replyto = $_POST['email'] ;
-$Message = 'Title: '.$_POST['suggestion'];
-$Message .= "\nName: ".$_POST['name'];
-$Message .= "\nCompany Name: ".$_POST['company_name'];
-$Message .= "\nJob Title: ".$_POST['job_title'];
+$Message = "\nName: ".$_POST['name'];
 $Message .= "\nEmail: ".$_POST['email'];
-$Message .= "\nAddress: ".$_POST['address'];
-$Message .= "\nTel No: ".$_POST['tel_no'];
 $Message .= "\nEnquiry: \n\n".$_POST['comments'];
 
 // ***** END CONFIG *****

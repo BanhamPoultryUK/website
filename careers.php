@@ -5,54 +5,29 @@
 	$Keywords = 'banham poultry,banham group,fresh british chicken,poultry products,poultry processors,poultry farmers';
 	$Custom = '<script type="text/javascript" src="assets/js/gen_validatorv31.js"></script>';
 	include 'assets/sections/header.php';
-
-// TODO
-require_once '_contact-form/fgcontactform.php';
-$formproc = new FGContactForm();
-// 1. Add your email address here.
-// You can add more than one receipients.
-$formproc->AddRecipient('recruitment@banhampoultryuk.com'); //<<---Put your email address here
-// 2. For better security. Get a random string from this link: http://tinyurl.com/randstr
-// and put it here
-$formproc->SetFormRandomKey('HG9hPBpn9Bn26yg');
-$formproc->AddFileUploadField('photo', 'pdf,doc,docx', 10240);
-
-if ( isset($_POST['submitted']) ) {
-	if ( $formproc->ProcessForm() ) {
-		$formproc->RedirectToURL('_contact-form/pages/thank-you_recruitment.php');
-	}
-}
-
 ?>
 		<div id="main">
 		<div id="attach_form_div">
-		<form id='contactus' action='<?php echo $formproc->GetSelfScript(); ?>' method='post' enctype="multipart/form-data" accept-charset='UTF-8'>
+		<form id='contactus' action="/_contact-form/send-mail_sales.php" method="post">
 			<fieldset >
 				<h3 class="heading">Contact us</h3>
 				<p>If you would like to send us your cv, please attach it with this form.</p><br /><br />
-				<input type='hidden' name='<?php echo $formproc->GetFormIDInputName(); ?>' value='<?php echo $formproc->GetFormIDInputValue(); ?>'/>
-				<input type='text'  class='spmhidip' name='<?php echo $formproc->GetSpamTrapInputName(); ?>' />
-				<div><span class='error'><?php echo $formproc->GetErrorMessage(); ?></span></div>
 			<div class='container'>
 				<h3><label for='name' >Name<span> *</span></label></h3>
-				<input type='text' name='name' id='name' value='<?php echo $formproc->SafeDisplay('name') ?>' maxlength="50" /><br/>
-				<span id='contactus_name_errorloc' class='error'></span>
+				<input type='text' name='name' id='name' value='' maxlength="50" /><br/>
 			</div>
 			<div class='container'>
 				<h3><label for='email' >Email Address<span> *</span></label></h3>
-				<input type='text' name='email' id='email' value='<?php echo $formproc->SafeDisplay('email') ?>' maxlength="50" /><br/>
-				<span id='contactus_email_errorloc' class='error'></span>
+				<input type='text' name='email' id='email' value='' maxlength="50" /><br/>
 			</div>
 			<div class='container'>
 				<h3><label for='message' >Message</label></h3>
-				<span id='contactus_message_errorloc' class='error'></span>
-				<textarea rows="10" cols="50" name='message' id='message'><?php echo $formproc->SafeDisplay('message') ?></textarea>
+				<textarea rows="10" cols="50" name='message' id='message'></textarea>
 			</div>
 			<div style="clear:both"></div>
 			<div class='container'>
 				<h3><label for='photo' >Upload your CV</label></h3>
-				<input type="file" name='photo' id='photo' /><br/>
-				<span id='contactus_photo_errorloc' class='error'></span>
+				<input type="file" name='cv' id='cv' /><br/>
 			</div>
 			<div class='container'>
 				<p>By submitting your details you consent to Banham Poultry (2018) Limited retaining them for legitimate business interests in line with current GDPR legislation.</p>
@@ -61,18 +36,6 @@ if ( isset($_POST['submitted']) ) {
 			</div>
 		</fieldset>
 	</form>
-<!-- client-side Form Validations:
-Uses the excellent form validation script from JavaScript-coder.com-->
-	<script type='text/javascript'>
-	var frmvalidator  = new Validator("contactus");
-	frmvalidator.EnableOnPageErrorDisplay();
-	frmvalidator.EnableMsgsTogether();
-	frmvalidator.addValidation("name","req","Please provide your name");
-	frmvalidator.addValidation("email","req","Please provide your email address");
-	frmvalidator.addValidation("email","email","Please provide a valid email address");
-	frmvalidator.addValidation("message","maxlen=10240","The message is too long!(more than 10MB!)");
-	frmvalidator.addValidation("photo","file_extn=pdf;doc;docx","Supported file types are: pdf, doc, docx");
-	</script>
 		</div>
 			<div id="job_desc_div">
 				<h3 class="heading">Job Vacancies</h3>
