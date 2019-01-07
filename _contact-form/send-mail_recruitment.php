@@ -25,7 +25,7 @@ require 'function.browning.php';
 $Mail = Browning(
 	$to_email,
 	'Enquiry via Website by '.$_POST['name'],
-	$_POST['message'],
+	$Message,
 	$_POST['name'],
 	$replyto,
 	true
