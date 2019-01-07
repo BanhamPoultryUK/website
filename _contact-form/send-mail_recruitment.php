@@ -3,8 +3,7 @@
 // ***** BEGIN CONFIG *****
 
 // Where to send the mail to
-//$to_email = 'recruitment@banhampoultryuk.com';
-$to_email = 'it@banhampoultryuk.com';
+$to_email = 'recruitment@banhampoultryuk.com';
 
 // This bit sets the URLs of the supporting pages.
 // If you change the names of any of the pages, you will need to change the values here.
@@ -20,7 +19,7 @@ $Message .= "\nEnquiry: \n\n".$_POST['message'];
 
 // ***** END CONFIG *****
 
-require 'settings.browning.php';
+require 'settings.browning.custom.php';
 require 'function.browning.php';
 
 $Mail = Browning(
@@ -40,5 +39,5 @@ if ( $Mail['Success'] ) {
 	echo $Mail['Error'].PHP_EOL;
 	echo '<!--'.PHP_EOL;
 	var_dump($Mail);
-	echo PHP_EOL.'-->'.;
+	echo PHP_EOL.'-->'.PHP_EOL;
 }
