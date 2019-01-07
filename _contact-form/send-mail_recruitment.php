@@ -55,7 +55,7 @@ try {
 } catch (Exception $e) {
     echo 'Message could not be sent. Mailer Error: ', $mail->ErrorInfo;
 } catch (\Exception $e) {
-   echo 'Message could not be sent. System Error: ', echo $e->getMessage();
+   echo 'Message could not be sent. System Error: ', $e->getMessage();
 }
 
 header('Location: '.$reply_page);
