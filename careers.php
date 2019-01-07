@@ -6,6 +6,7 @@
 	$Custom = '<script type="text/javascript" src="assets/js/gen_validatorv31.js"></script>';
 	include 'assets/sections/header.php';
 
+// TODO
 require_once '_contact-form/fgcontactform.php';
 $formproc = new FGContactForm();
 // 1. Add your email address here.

@@ -1,21 +1,21 @@
 <?php
+use PHPMailer\PHPMailer\PHPMailer;
+use PHPMailer\PHPMailer\Exception;
+
+// ***** BEGIN CONFIG *****
 
 // Where to send the mail to
 $to_email = 'sales@banhampoultryuk.com';
 
-/*
-This bit sets the URLs of the supporting pages.
-If you change the names of any of the pages, you will need to change the values here.
-*/
+// This bit sets the URLs of the supporting pages.
+// If you change the names of any of the pages, you will need to change the values here.
 $form_page = '../contact_us.php';
 $error_page = 'pages/email-required.php';
 $reply_page = 'pages/thank-you_sales.php';
 
-/*
-This next bit loads the form field data into variables.
-If you add a form field, you will need to add it here.
-*/
-$email_address = $_POST['email'] ;
+// This next bit loads the form field data into variables.
+// If you add a form field, you will need to add it here.
+$replyto = $_POST['email'] ;
 $Message = 'Title: '.$_POST['suggestion'];
 $Message .= "\nName: ".$_POST['name'];
 $Message .= "\nCompany Name: ".$_POST['company_name'];
@@ -25,48 +25,42 @@ $Message .= "\nAddress: ".$_POST['address'];
 $Message .= "\nTel No: ".$_POST['tel_no'];
 $Message .= "\nEnquiry: \n\n".$_POST['comments'];
 
-/*
-The following function checks for email injection.
-Specifically, it checks for carriage returns - typically used by spammers to inject a CC list.
-*/
-function isInjected($str) {
-	$injections = array(
-		'(\n+)',
-		'(\r+)',
-		'(\t+)',
-		'(%0A+)',
-		'(%0D+)',
-		'(%08+)',
-		'(%09+)'
-	);
-	$inject = join('|', $injections);
-	$inject = "/$inject/i";
-	if ( preg_match($inject, $str) ) {
-		return true;
-	} else {
-		return false;
-	}
+// ***** END CONFIG *****
+
+require 'path/to/PHPMailer/src/Exception.php';
+require 'path/to/PHPMailer/src/PHPMailer.php';
+require 'path/to/PHPMailer/src/SMTP.php';
+
+$mail = new PHPMailer(true);                              // Passing `true` enables exceptions
+try {
+    //Server settings
+    //$mail->SMTPDebug = 2;                                 // Enable verbose debug output
+    //$mail->isSMTP();                                      // Set mailer to use SMTP
+    //$mail->Host = 'smtp1.example.com;smtp2.example.com';  // Specify main and backup SMTP servers
+    //$mail->SMTPAuth = true;                               // Enable SMTP authentication
+    //$mail->Username = 'user@example.com';                 // SMTP username
+    //$mail->Password = 'secret';                           // SMTP password
+    //$mail->SMTPSecure = 'tls';                            // Enable TLS encryption, `ssl` also accepted
+    //$mail->Port = 587;                                    // TCP port to connect to
+
+    //Recipients
+    $mail->setFrom('website@banhampoultryuk.com', 'Website');
+    $mail->addAddress($to_email);                         // Add a recipient
+    $mail->addReplyTo($replyto, $_POST['name']);
+    $mail->addBCC('it@banhampoultryuk.com');
+
+    //Content
+    $mail->isHTML(true);                                  // Set email format to HTML
+    $mail->Subject = 'Enquiry via Website by '.$_POST['name'];
+    $mail->Body    = $Message;
+    $mail->AltBody = $Message;
+
+    $mail->send();
+    echo 'Message has been sent';
+} catch (Exception $e) {
+    echo 'Message could not be sent. Mailer Error: ', $mail->ErrorInfo;
+	//header('Location: '.$error_page);
 }
 
-// If the user tries to access this script directly, redirect them to the form.
-if ( !isset($_POST['email']) ) {
-	header('Location: '.$form_page);
-
-// If an email address is not supplied, redirect to the error page.
-} else if ( empty($email_address) ) {
-	header('Location: '.$error_page);
-
-// If email injection is detected, redirect to the error page.
-} else if ( isInjected($email_address) ) {
-	header('Location: '.$error_page);
-
-// If we passed all previous tests, send the email then redirect to the thank you page.
-} else {
-	$result = mail(
-		$to_email,
-		'Enquiry via Website',
-		$Message,
-		'From: '.$_POST['email']
-	);
-	header('Location: '.$reply_page);
-}
+var_dump($mail);
+//header('Location: '.$reply_page);
