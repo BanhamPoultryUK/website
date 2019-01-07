@@ -7,7 +7,6 @@ $to_email = 'recruitment@banhampoultryuk.com';
 
 // This bit sets the URLs of the supporting pages.
 // If you change the names of any of the pages, you will need to change the values here.
-$form_page = '../careers.php';
 $reply_page = 'pages/thank-you_recruitment.php';
 
 // This next bit loads the form field data into variables.
@@ -32,8 +31,8 @@ $Mail = Browning(
 );
 
 if ( $Mail['Success'] ) {
-	echo 'Success! We managed to send the E-Mail.'.PHP_EOL;
-	//header('Location: '.$reply_page);
+	//echo 'Success! We managed to send the E-Mail.'.PHP_EOL;
+	header('Location: '.$reply_page);
 } else {
 	echo 'Sorry, we failed to send the E-Mail.'.PHP_EOL;
 	echo $Mail['Error'].PHP_EOL;

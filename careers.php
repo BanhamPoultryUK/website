@@ -8,7 +8,7 @@
 ?>
 		<div id="main">
 		<div id="attach_form_div">
-		<form id='contactus' action="/_contact-form/send-mail_recruitment.php" method="post">
+		<form id='contactus' action="/_contact-form/send-mail_recruitment.php" method="post" enctype="multipart/form-data">
 			<fieldset >
 				<h3 class="heading">Contact us</h3>
 				<p>If you would like to send us your cv, please attach it with this form.</p><br /><br />
