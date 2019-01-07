@@ -35,7 +35,7 @@
 			<div id="registration_div">
 				<h3 class="heading">Thank You</h3>
 				<img src="/assets/images/1340028423_camera_test.png" width="66" height="66" title="" alt="" /><p>Thank you for sending us your CV, we will get back to you shortly.</p><br/><br/>
-				<a class="email_link" href="careers.php">Back to Careers</a>
+				<a class="email_link" href="JavaScript:history.go(-1);">Back to Careers</a>
 		</div>
 	</div>
 	</div>
