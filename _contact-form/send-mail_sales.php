@@ -27,9 +27,9 @@ $Message .= "\nEnquiry: \n\n".$_POST['comments'];
 
 // ***** END CONFIG *****
 
-require 'path/to/PHPMailer/src/Exception.php';
-require 'path/to/PHPMailer/src/PHPMailer.php';
-require 'path/to/PHPMailer/src/SMTP.php';
+require 'PHPMailer-6.0.6/src/Exception.php';
+require 'PHPMailer-6.0.6/src/PHPMailer.php';
+require 'PHPMailer-6.0.6/src/SMTP.php';
 
 $mail = new PHPMailer(true);                              // Passing `true` enables exceptions
 try {
