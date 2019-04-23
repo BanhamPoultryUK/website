@@ -48,18 +48,7 @@
 				<h4>Production Operatives</h4>
 				<ul>
 					<li>Shift Thursday, Friday, Saturday, Monday, Tuesday, Wednesday then 7 days off.
-					<li>£8.05 per hour
-				</ul>
-				<br>
-				<h4>Night Hygiene Operatives</h4>
-				<ul>
-					<li>Previous hygiene experience desirable.
-					<li>Shifts:
-					<ul>
-						<li>Sunday-Thursday (10pm-6am)
-						<li>Tuesday-Saturday (Tuesday-Friday 10pm-6am / Saturday 6.30pm-2.30am)
-					</ul>
-					<li>£8.60 per hour
+					<li>£8.21 per hour
 				</ul>
 				<br>
 				<h4>Electrical/Mechanical Engineers</h4>
