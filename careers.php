@@ -51,10 +51,12 @@
 					<li>£8.21 per hour
 				</ul>
 				<br>
-				<h4>Electrical/Mechanical Engineers</h4>
+				<h4>Hygiene Operatives</h4>
 				<ul>
-					<li>Shift - 5 days on 5 days off 5 nights
-					<li>Competitive rates of pay
+					<li>Sunday – Thursday & Tuesday – Saturday
+					<li>10pm to 6am
+					<li>£8.76 per hour
+					<li>40 hours per week including paid breaks
 				</ul>
 				<!--
 				<p>We have no open positions at this time.</p>
