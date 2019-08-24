@@ -51,6 +51,9 @@
 	
 </head>
 <body>
+	<div id="skiptocontent">
+		<a href="#maincontent">skip to main content</a>
+	</div>
 	<div id="wrapper">
 		<div id="hd">
 			<a href="/"><img id="hd_logo" src="/assets/images/new_hd.png" title="" alt="" /></a>
