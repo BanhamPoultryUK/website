@@ -24,6 +24,7 @@
 				<div class="detail">
 					<h3 class="heading">Find Us</h3>
 					<form id="direction" action="http://maps.google.com/maps" method="get">
+						<label for="direction_input">Source Address</label>
 						<input id="direction_input" type="text" onfocus="if(this.value=='Enter your postal code')this.value=''" onblur="if(this.value=='')this.value='Enter your postal code'" title="" value="Enter your postal code" name="saddr"/>
 						<input type="hidden" name="daddr" value="Banham Poultry, Station Road, Attleborough NR17 2AT, UK"/><br /><br />
 						<input id="direction_icon" type="image" src="assets/images/1340469161_Contacts.png" title="Get Directions" alt="Get Directions"/>
@@ -43,7 +44,7 @@
 					
 					<label for="suggestion" class="formlabel">Title</label>
 					<div class="formfield">
-						<select name="suggestion">
+						<select id="suggestion" name="suggestion">
 							<option selected="selected">Mr</option>
 							<option>Mrs</option>
 							<option>Ms</option>
