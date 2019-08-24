@@ -52,7 +52,7 @@
 </head>
 <body>
 	<div id="skiptocontent">
-		<a href="#maincontent">skip to main content</a>
+		<a href="#main">skip to main content</a>
 	</div>
 	<div id="wrapper">
 		<div id="hd">
