@@ -56,7 +56,7 @@
 	</div>
 	<div id="wrapper">
 		<div id="hd">
-			<a href="/" title="Home">><img id="hd_logo" src="/assets/images/new_hd.png" alt="Banham Poultry Logo"></a>
+			<a href="/" title="Home"><img id="hd_logo" src="/assets/images/new_hd.png" alt="Banham Poultry Logo"></a>
 			<div id="hd_links">
 				<a href="/cookie-policy">Cookie Policy</a>
 				<span>&nbsp;&middot;&nbsp;</span>
