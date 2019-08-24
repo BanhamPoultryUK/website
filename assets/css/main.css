@@ -18,6 +18,13 @@ img {
 ul, ol {
 	margin-left: 1em;
 }
+#skiptocontent {
+	height: 1px;
+	width: 1px;
+	position: absolute;
+	overflow: hidden;
+	top: -10px;
+}
 #wrapper { 
 	margin: 0 auto;
 	width: 950px;
