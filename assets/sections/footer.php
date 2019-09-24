@@ -6,19 +6,13 @@
 					Registered in England &amp; Wales 11606211<br />
 					VAT Registration No. 307 0082 45</p>
 				<div class="ft_links">
-					<a href="/careers.php">Careers</a><br />
 					<a href="/assets/files/BanhamPoultryModernSlaveryActStatement.pdf">Modern Slavery Act</a><br />
-					<a href="https://mail.banhampoultryuk.com/owa/">Employee Mail</a>
+					<a href="https://mail.banhampoultryuk.com/owa/">Employee Mail</a><br />
+					<a href="/assets/files/BanhamPoultrySupplierTermsAndConditions.pdf">Supplier Terms and Conditions</a>
 				</div>
 				<div class="ft_links">
-					<a href="/agriculture.php">Agriculture</a><br />
-					<a href="/environment.php">Environment</a><br />
-					<a href="/contact_us.php">Contact Us</a>
 				</div>
 				<div class="ft_links">
-					<a href="/index.php">Home</a><br />
-					<a href="/about_us.php">About Us</a><br />
-					<a href="/products.php">Products</a>
 				</div>
 			</div>
 		</div>
