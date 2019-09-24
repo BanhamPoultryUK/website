@@ -3,7 +3,13 @@
 // ***** BEGIN CONFIG *****
 
 // Where to send the mail to
-$to_email = 'sales@banhampoultryuk.com';
+if ( $_POST['enquiry_type'] = 'hr') {
+	$to_email = 'hr@banhampoultryuk.com';
+} else if ( $_POST['enquiry_type'] = 'sales') {
+	$to_email = 'sales@banhampoultryuk.com';
+} else {
+	$to_email = 'elly@banhampoultryuk.com';
+}
 
 // This bit sets the URLs of the supporting pages.
 // If you change the names of any of the pages, you will need to change the values here.
@@ -11,7 +17,7 @@ $reply_page = 'pages/thank-you_sales.php';
 
 // This next bit loads the form field data into variables.
 // If you add a form field, you will need to add it here.
-$replyto = $_POST['email'] ;
+$replyto = $_POST['email'];
 $Message = 'Title: '.$_POST['suggestion'];
 $Message .= "\nName: ".$_POST['name'];
 $Message .= "\nCompany Name: ".$_POST['company_name'];

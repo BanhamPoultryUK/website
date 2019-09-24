@@ -34,13 +34,13 @@
 			</div>
 			<div id="registration_div">
 
-				<h3 class="heading">Supplier/Customer Registration</h3>
+				<h3 class="heading">Contact us</h3>
 				<p>Please use this form to make an enquiry or to request product literature</p><br/>
 				<p><span>&#42;</span> required fields</p><br/>
 				
 				
 
-				<form id="registration" action="/_contact-form/send-mail_sales.php" method="post">
+				<form id="registration" action="/_contact-form/send-mail_enquiry.php" method="post">
 					
 					<label for="suggestion" class="formlabel">Title</label>
 					<div class="formfield">
@@ -75,6 +75,12 @@
 
 					<label for="comments" class="formlabel">Nature of your enquiry</label>
 					<div class="formfield">
+						<select name="enquiry_type">
+							<option value="hr">HR</option>
+							<option value="sales">Sales</option>
+							<option value="other">Other</option>
+						</select>
+						<br />
 						<textarea id="comments" name="comments" rows="6" cols="40"></textarea>
 					</div>
 					
