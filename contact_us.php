@@ -77,7 +77,7 @@
 					<div class="formfield">
 						<select name="enquiry_type">
 							<option value="hr">HR</option>
-							<option value="sales">Sales</option>
+							<option value="sales" selected>Sales</option>
 							<option value="other">Other</option>
 						</select>
 						<br />
