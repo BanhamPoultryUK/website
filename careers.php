@@ -45,18 +45,38 @@
 				<br>
 				<hr>
 				<br>
-				<h4>Production Operatives</h4>
+				<h4>Hygiene Team Leaders</h4>
 				<ul>
-					<li>Shift Thursday, Friday, Saturday, Monday, Tuesday, Wednesday then 7 days off.
-					<li>£8.21 per hour
+					<li>Hours of work:
+						<ul>
+							<li>Hours of work: 5 days out of 7 (10pm-6am)
+							<li>Nights 6.30pm – 3am (Monday-Friday)
+						</ul>
+					</li>
+					<li>Rate of pay: £10.50 per hour
+					<li>Previous experience within food manufacturing required
 				</ul>
 				<br>
-				<h4>Hygiene Operatives</h4>
+				<h4>Line Leaders Operatives</h4>
 				<ul>
-					<li>Sunday – Thursday & Tuesday – Saturday
-					<li>10pm to 6am
-					<li>£8.76 per hour
-					<li>40 hours per week including paid breaks
+					<li>Hours of work:
+						<ul>
+							<li>Days 6am - 6.30pm (3 on, 1 off, 3 on, 7 off)
+							<li>Nights 6.30pm – 3am (Monday-Friday)
+						</ul>
+					</li>
+					<li>Rate of pay: £10.00 per hour
+				</ul>
+				<br>
+				<h4>Production Operatives</h4>
+				<ul>
+					<li>Hours of work:
+						<ul>
+							<li>Days 6am - 6.30pm (3 on, 1 off, 3 on, 7 off)
+							<li>Nights 6.30pm – 3am (Monday-Friday)
+						</ul>
+					</li>
+					<li>Rate of pay: £8.21 per hour
 				</ul>
 				<!--
 				<p>We have no open positions at this time.</p>
