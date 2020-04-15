@@ -45,6 +45,7 @@
 				<br>
 				<hr>
 				<br>
+				<!--
 				<h4>Hygiene Team Leaders</h4>
 				<ul>
 					<li>Hours of work:
@@ -78,9 +79,8 @@
 					</li>
 					<li>Rate of pay: £8.21 per hour
 				</ul>
-				<!--
-				<p>We have no open positions at this time.</p>
 				-->
+				<p>We have no open positions at this time.</p>
 				<br>
 				<hr>
 				<br>
