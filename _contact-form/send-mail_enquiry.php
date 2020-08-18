@@ -4,7 +4,7 @@
 
 // Where to send the mail to
 if ( $_POST['enquiry_type'] = 'hr') {
-	$to_email = 'recruitment@banhampoultryuk.com';
+	$to_email = 'hr@banhampoultryuk.com';
 } else if ( $_POST['enquiry_type'] = 'sales') {
 	$to_email = 'sales@banhampoultryuk.com';
 } else {

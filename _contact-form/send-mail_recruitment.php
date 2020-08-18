@@ -3,7 +3,7 @@
 // ***** BEGIN CONFIG *****
 
 // Where to send the mail to
-$to_email = 'recruitment@banhampoultryuk.com';
+$to_email = 'hr@banhampoultryuk.com';
 
 // This bit sets the URLs of the supporting pages.
 // If you change the names of any of the pages, you will need to change the values here.

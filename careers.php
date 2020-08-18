@@ -86,7 +86,7 @@
 				<br>
 				<h4>Discounted staff sales, life insurance, and on-site parking and canteen are available.</h4>
 				<br>
-				<h4>Please contact <a href="&#x6D;&#x61;&#x69;&#x6C;&#x74;&#x6F;&#x3A;&#x72;&#x65;&#x63;&#x72;&#x75;&#x69;&#x74;&#x6D;&#x65;&#x6E;&#x74;&#x40;&#x62;&#x61;&#x6E;&#x68;&#x61;&#x6D;&#x70;&#x6F;&#x75;&#x6C;&#x74;&#x72;&#x79;&#x75;&#x6B;&#x2E;&#x63;&#x6F;&#x6D;">recruitment@banhampoultryuk.com</a> for further information.</h4>
+				<h4>Please contact <a href="mailto:hr@banhampoultryuk.com">hr@banhampoultryuk.com</a> for further information.</h4>
 				<br>
 				<h4>We do not accept correspondence via Recruitment Agencies.</h4>
 				<br>
