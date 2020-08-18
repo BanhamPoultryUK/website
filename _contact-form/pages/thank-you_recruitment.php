@@ -1,10 +1,10 @@
 <?php
-	
+
 	$Title = 'Banham Poultry &middot; Careers';
 	$Description = 'Banham Poultry - Suppliers of high quality fresh British chicken.';
 	$Keywords = 'banham poultry,banham group,fresh british chicken,poultry products,poultry processors,poultry farmer';
 	include '../../assets/sections/header.php';
-	
+
 ?>
 			<div id="display_bg">
 				<div id="display">
@@ -21,9 +21,9 @@
 					<h3 class="heading">Contact us</h3>
 						<p><span>t </span> +44 (0)1953 455001</p><br />
 						<p><span>f </span> +44 (0)1953 455466</p><br />
- <a id="email_link" href="mailto:&#115;&#097;&#108;&#101;&#115;&#064;&#098;&#097;&#110;&#104;&#097;&#109;&#112;&#111;&#117;&#108;&#116;&#114;&#121;&#117;&#107;&#046;&#099;&#111;&#109;?subject=Enquiry%20via%20website">sales@banhampoultryuk.com</a>
+ <a id="email_link" href="mailto:&#x72;&#x65;&#x63;&#x72;&#x75;&#x69;&#x74;&#x6D;&#x65;&#x6E;&#x74;&#x40;&#x62;&#x61;&#x6E;&#x68;&#x61;&#x6D;&#x70;&#x6F;&#x75;&#x6C;&#x74;&#x72;&#x79;&#x75;&#x6B;&#x2E;&#x63;&#x6F;&#x6D;?subject=Enquiry%20via%20website">recruitment@banhampoultryuk.com</a>
 				</div>
-				<div class="detail">	
+				<div class="detail">
 					<h3 class="heading">Find Us</h3>
 					<form id="direction" action="http://maps.google.com/maps" method="get">
 						<input id="direction_input" type="text" onfocus="if(this.value=='Enter your postal code')this.value=''" onblur="if(this.value=='')this.value='Enter your postal code'" title="" value="Enter your postal code" name="saddr"/>
@@ -39,5 +39,5 @@
 		</div>
 	</div>
 	</div>
-		
+
 <?php include '../../assets/sections/footer.php'; ?>
