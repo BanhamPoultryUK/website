@@ -1,10 +1,10 @@
 <?php
-	
+
 	$Title = 'Banham Poultry &middot; Cookie Policy';
 	$Description = 'Cookies are small files managed by your web browser that websites can request to store small snippets of information. They are usually used for storing preferences, session, or tracking information. The table below details all the cookies currently used on BanhamPoultryUK.com';
 	$Keywords = 'banham poultry,banham group,fresh british chicken,poultry products,poultry processors,poultry farmers';
 	include 'assets/sections/header.php';
-	
+
 ?>
 
 		<div id="main">
@@ -101,32 +101,8 @@
 					<tr>
 						<td colspan="7">Contains campaign related information for the user. If you have linked your Google Analytics and AdWords accounts, AdWords website conversion tags will read this cookie unless you opt-out. <a href="https://support.google.com/adwords/answer/7521212" target="_blank">Learn more</a>.
 					</tr>
-					<tr>
-						<td>mail.BanhamPoultryUK.com
-						<td class="italic">Various
-						<td>Various
-						<td>First
-						<td>Temporary / Permanent
-						<td>Various
-						<td>Yes
-					</tr>
-					<tr>
-						<td colspan="7">Exchange 2013 OWA places various cookies that can be both permanent or temporary. As this software is controlled by a third party under an on-premise deployment, it is best to review their own <a href="https://www.microsoft.com/EN-US/privacystatement/MicrosoftExchangeServer2013/Default.aspx" target="_blank">Privacy Statement</a>.
-					</tr>
-					<tr>
-						<td>gp.BanhamPoultryUK.com
-						<td class="italic">Various
-						<td>Various
-						<td>First
-						<td>Temporary / Permanent
-						<td>Various
-						<td>Yes
-					</tr>
-					<tr>
-						<td colspan="7">Palo Alto Global Protect places various cookies that can be both permanent or temporary. As this software is controlled by a third party under an on-premise deployment, it is best to review their own <a href="https://www.paloaltonetworks.com/legal-notices/privacy" target="_blank">Privacy Statement</a>.
-					</tr>
 				</table>
 			</div>
 		</div>
-		
+
 <?php include 'assets/sections/footer.php';
