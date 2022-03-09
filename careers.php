@@ -13,21 +13,21 @@
 				<h3 class="heading">Contact us</h3>
 				<p>If you would like to send us your cv, please attach it with this form.</p><br /><br />
 			<div class='container'>
-				<h3><label for='name' >Name<span> *</span></label></h3>
-				<input type='text' name='name' id='name' value='' maxlength="50" /><br/>
+				<h3><label for='name'>Name <span>*</span></label></h3>
+				<input type='text' name='name' id='name' value='' maxlength="50" required /><br/>
 			</div>
 			<div class='container'>
-				<h3><label for='email' >Email Address<span> *</span></label></h3>
-				<input type='text' name='email' id='email' value='' maxlength="50" /><br/>
+				<h3><label for='email'>Email Address <span>*</span></label></h3>
+				<input type='text' name='email' id='email' value='' maxlength="50" required /><br/>
 			</div>
 			<div class='container'>
-				<h3><label for='message' >Message</label></h3>
+				<h3><label for='message'>Message</label></h3>
 				<textarea rows="10" cols="50" name='message' id='message'></textarea>
 			</div>
 			<!-- TODO File uploads
 			<div style="clear:both"></div>
 			<div class='container'>
-				<h3><label for='cv' >Upload your CV</label></h3>
+				<h3><label for='cv'>Upload your CV</label></h3>
 				<input type="hidden" name="MAX_FILE_SIZE" value="20000000" />
 				<input type="file" name='cv' id='cv' /><br/>
 			</div>
