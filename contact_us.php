@@ -53,17 +53,17 @@
 						</select>
 					</div>
 
-					<label for="name" class="formlabel">Name</label>
-					<div class="formfield"><input class="field" type="text" id="name" name="name" size="45"/></div>
+					<label for="name" class="formlabel">Name <span>&#42;</span></label>
+					<div class="formfield"><input class="field" type="text" id="name" name="name" size="45" required /></div>
 
 					<label for="company_name" class="formlabel">Company Name</label>
-					<div class="formfield"><input class="field" type="text" id="company_name" name="company_name" size="45"/></div>
+					<div class="formfield"><input class="field" type="text" id="company_name" name="company_name" size="45" /></div>
 
 					<label for="job_title" class="formlabel">Job Title</label>
-					<div class="formfield"><input class="field" type="text" id="job_title" name="job_title" size="45"/></div>
+					<div class="formfield"><input class="field" type="text" id="job_title" name="job_title" size="45" /></div>
 
 					<label for="email" class="formlabel">Email <span>&#42;</span></label>
-					<div class="formfield"><input class="field" type="email" id="email" name="email" size="45"/></div>
+					<div class="formfield"><input class="field" type="email" id="email" name="email" size="45" required /></div>
 
 					<label for="address" class="formlabel">Address</label>
 					<div class="formfield">
@@ -73,7 +73,7 @@
 					<label for="tel_no" class="formlabel">Telephone</label>
 					<div class="formfield"><input class="field" type="text" id="tel_no" name="tel_no" size="45"/></div>
 
-					<label for="comments" class="formlabel">Nature of your enquiry</label>
+					<label for="comments" class="formlabel">Nature of your enquiry <span>&#42;</span></label>
 					<div class="formfield">
 						<select name="enquiry_type">
 							<option value="hr" selected>HR</option>
