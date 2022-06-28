@@ -47,29 +47,26 @@
 				<br>
 				<h4>Multi-skilled Warehouse operative</h4>
 				<p>Banham Poultry LTD has exciting new position available – Multi Skilled Warehouse operative in food manufacturing plant with immediate start!</p>
-				<p>Responsibilities:
+				<h4>Responsibilities:</h4>
+				<ul>
+					<li>Scanning, packing, loading, documenting packed goods for despatch
+					<li>Operating forklift to load and unload goods
+					<li>Keeping your workplace clean up to company standards
+					<li>Working according to health and safety standards
+				</ul>
+				<h4>Pay structure / rates:</h4>
+				<ul>
+					<li>Day shift 0600-1800 3 on / 1 off / 3 on / 7 off
+					<li>Night shift Monday to Friday 1800-0300 or 2100-0600
+					<li>Starting pay rate £10.30 p/h, after probation period - £10.61p/h.
+					<li>Overtimes available with increased rates!
+				</ul>
+				<h4>Requirements:</h4>
 					<ul>
-						<li>Scanning, packing, loading, documenting packed goods for despatch
-						<li>Operating forklift to load and unload goods
-						<li>Keeping your workplace clean up to company standards
-						<li>Working according to health and safety standards
-					</ul>
-				</p>
-				<p>Pay structure / rates:
-					<ul>
-						<li>Day shift 0600-1800 3 on / 1 off / 3 on / 7 off
-						<li>Night shift Monday to Friday 1800-0300 or 2100-0600
-						<li>Starting pay rate £10.30 p/h, after probation period - £10.61p/h.
-						<li>Overtimes available with increased rates!
-					</ul>
-				</p>
-				<p>Requirements:
-					<ul>
-						<li>Forklift licence (preferred but not essential)
-						<li>Experience preferred but not essential as training will be given
-						<li>Own transport due to location of the factory
-					</ul>
-				</p>
+					<li>Forklift licence (preferred but not essential)
+					<li>Experience preferred but not essential as training will be given
+					<li>Own transport due to location of the factory
+				</ul>
 				<p>If you are interested please apply and we will contact you to arrange interview.</p>
 				<!--
 				<p>We have no open positions at this time.</p>
