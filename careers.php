@@ -3,7 +3,6 @@
 	$Title = 'Banham Poultry &middot; Careers';
 	$Description = 'Search for vacancies at Banham Poultry.';
 	$Keywords = 'banham poultry,banham group,fresh british chicken,poultry products,poultry processors,poultry farmers';
-	$Custom = '<script type="text/javascript" src="assets/js/gen_validatorv31.js"></script>';
 	include 'assets/sections/header.php';
 ?>
 		<div id="main">
@@ -11,27 +10,21 @@
 		<form id='contactus' action="/_contact-form/send-mail_recruitment.php" method="post" enctype="multipart/form-data">
 			<fieldset >
 				<h3 class="heading">Contact us</h3>
-				<p>If you would like to send us your cv, please attach it with this form.</p><br /><br />
+				<p>If you would like to send us your cv, please attach it to an application directed to <a href="mailto:hr@banhampoultryuk.com">hr@banhampoultryuk.com</a></p>
+				<br>
+				<br>
 			<div class='container'>
 				<h3><label for='name'>Name <span>*</span></label></h3>
-				<input type='text' name='name' id='name' value='' maxlength="50" required /><br/>
+				<input type='text' name='name' id='name' value='' maxlength="128" required /><br/>
 			</div>
 			<div class='container'>
 				<h3><label for='email'>Email Address <span>*</span></label></h3>
-				<input type='text' name='email' id='email' value='' maxlength="50" required /><br/>
+				<input type='email' name='email' id='email' value='' maxlength="128" required /><br/>
 			</div>
 			<div class='container'>
 				<h3><label for='message'>Message</label></h3>
 				<textarea rows="10" cols="50" name='message' id='message'></textarea>
 			</div>
-			<!-- TODO File uploads
-			<div style="clear:both"></div>
-			<div class='container'>
-				<h3><label for='cv'>Upload your CV</label></h3>
-				<input type="hidden" name="MAX_FILE_SIZE" value="20000000" />
-				<input type="file" name='cv' id='cv' /><br/>
-			</div>
-			-->
 			<div class='container'>
 				<p>By submitting your details you consent to Banham Poultry (2018) Limited retaining them for legitimate business interests in line with current GDPR legislation.</p>
 				<br />
@@ -71,7 +64,7 @@
 				</ul>
 				<p>If you are interested please apply and we will contact you to arrange interview.</p>
 				<!--
-				<p>We have no open positions at this time.</p>
+				<h3>We have no open positions at this time.</h3>
 				-->
 				<br>
 				<hr>
