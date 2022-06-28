@@ -8,9 +8,6 @@ body {
 	font-family: 'Lato', arial, helvetica, sans-serif;
 	font-size: 1em;
 }
-.ie6 body {
-	background: #ffffff;
-}
 
 img {
 	max-width: 100%;
@@ -95,17 +92,6 @@ ul, ol {
 	-moz-border-radius: 5px;
 	border-radius: 5px;
 }
-.ie9 #nav {
-	letter-spacing: 0;
-	font-size: 0.8125em;
-}
-.ie8 #nav, .ie7 #nav, .ie6 #nav {
-	letter-spacing: 0;
-	font-size: 0.8em;
-}
-.ie7 #nav {
-	width: 949px;
-}
 #nav li {
 	float: left; 
 }
@@ -116,17 +102,11 @@ ul, ol {
 	text-decoration: none;
 	color: #ffffff;
 }
-.ie6 #nav li a, .ie7 #nav li a, .ie8 #nav li a {
-	font-weight: bold; 
-}
 #current_page,
 #nav li.current_page a,
 #nav li a:hover,
 #nav li a:focus {
 	color: #BBC7D8;
-}
-.ie6 #current_page, .ie7 #current_page, .ie8 #current_page {
-	font-weight: bold;
 }
 #display { 
 	width: 100%;
@@ -143,23 +123,12 @@ ul, ol {
 	width: 950px;
 	margin: 0 0 25px 0;
 }
-.ie7 #main {
-	height: 615px;
-}
-.ie6 #main {
-	display: inline;
-	background: #ffffff;
-	padding-bottom: 15px;
-}
 #main_enviro { 
 	float: left;
 	width: 950px;
 	margin: 0 0 15px 0;
 	padding: 0;
 	background: url(../images/enviro_back.png) 0 0 no-repeat;
-}
-.ie6 #main_enviro {
-	background: url(../images/enviro_back_white.png) 0 0 no-repeat;
 }
 #main_agri { 
 	float: left;
@@ -168,12 +137,6 @@ ul, ol {
 	padding: 0;
 	background: url(../images/agri_background.png) 0 8px no-repeat;
 }
-.ie9 #main_agri, .ie8 #main_agri, .ie7 #main_agri {
-	background: url(../images/agri_background.png) 0 12px no-repeat;
-}
-.ie6 #main_agri {
-	background: url(../images/agri_background_white.png) 0 12px no-repeat;
-}
 #main_about { 
 	float: left;
 	width: 950px;
@@ -181,21 +144,12 @@ ul, ol {
 	padding: 0;
 	background: url(../images/about_background.png) 0 6px no-repeat;
 }
-.ie9 #main_about, .ie8 #main_about, .ie7 #main_about {
-	background: url(../images/about_background.png) 0 25px no-repeat;
-}
-.ie6 #main_about {
-	background: url(../images/about_background_white.png) 0 20px no-repeat;
-}
 #main_prod { 
 	float: left;
 	width: 950px;
 	margin: 0 0 15px 0;
 	padding: 0;
 	background: url(../images/prod_background.png) 0 0 no-repeat;
-}
-.ie6 #main_prod {
-	background: url(../images/prod_background_white.png) 0 0 no-repeat;
 }
 #blue_bar_div {
 	float: left;
@@ -213,9 +167,6 @@ ul, ol {
 	width: 900px;
 	margin: 0 25px 0 25px;
 	padding-top: 5px;
-}
-.ie6 #breadcrumbs_div {
-	display: inline;
 }
 #breadcrumbs_div ul {
 	float: left;
@@ -248,20 +199,11 @@ ul, ol {
 	margin: 0 0 25px 0;
 	color: #606060;
 }
-.ie8 .detail, .ie7 .detail, .ie6 .detail {
-	line-height: 1.3;
-}
-.ie6 .detail {
-	display: inline;
-}
 #contact_div {
 	float: left;
 	width: 265px;
 	margin: 15px 0px 15px 25px;
 	border-right: 1px solid #7592ac;
-}
-.ie6 #contact_div {
-	display: inline;
 }
 #contact_div p span {
 	color: #426F8F;
@@ -273,18 +215,9 @@ ul, ol {
 	margin: 15px 25px 15px 25px;
 	color: #606060;
 }
-.ie6 #registration_div {
-	display: inline;
-}
 #registration_div img {
 	float: left;
 	margin: 5px 20px 0 0;
-}	
-.ie8 #registration_div img {
-	clear: left;
-}
-.ie8 #registration_div p, .ie7 #registration_div p, .ie6 #registration_div p {
-	font-size: 0.8125em;
 }
 #registration_div p {
 	float: left;
@@ -305,9 +238,6 @@ ul, ol {
 	color: #426F8F;
 	font-size: 1.125em;
 }
-.ie8 #contact_div p, .ie7 #contact_div p, .ie6 #contact_div p {
-	font-size: 0.8125em;
-}
 
 .formlabel {
 	width: 153px;
@@ -321,29 +251,11 @@ ul, ol {
 .formlabel span {
 	color: #cf3823;
 }
-.ie8 .formlabel {
-	width: 160px;
-	font-size: 0.8125em;
-}
-.ie6 .formlabel, .ie7 .formlabel {
-	margin-right: 10px;
-	width: 160px;
-	font-size: 0.8125em;
-}
 .formfield {
 	margin-bottom: 12px;
 	margin-left: 25px;
 	float: left;
 	text-align: left;
-}
-.ie8 .formfield {
-	width: 100px;
-}
-.ie7 .formfield {
-	margin-left: 0;
-}
-.ie6 .formfield {
-	margin-left: 12px;
 }
 #registration textarea {
 	padding: 2px;
@@ -367,9 +279,7 @@ ul, ol {
 	font-family: arial, helvetica, sans-serif;
 	font-size: 0.8em;
 }
-.ie6 .field {
-	width: 395px;
-}
+
 .formfield textarea {
 	width: 410px;
 	outline: 0;
@@ -377,14 +287,8 @@ ul, ol {
 	font-family: arial, helvetica, sans-serif;
 	font-size: 0.8em;
 }
-.ie6 .formfield textarea {
-	width: 395px;
-}
 .formfield select {
 	height: 20px;
-}
-.ie6 .formfield select {
-	margin-left: 12px;
 }
 .form_button {
 	background: url(../images/blue_nav.png);
@@ -401,9 +305,6 @@ ul, ol {
 	-moz-border-radius: 5px;
 	border-radius: 5px; 
 }
-.ie7 .form_button {
-	display: inline;
-}
 #direction_input {
 	border: 1px solid #426F8F;
 	padding: 4px 3px 3px 5px;
@@ -418,37 +319,11 @@ ul, ol {
 	-webkit-border-radius: 5px;
 	border-radius: 5px;
 }
-.ie8 #direction_input {
-	padding: 5px 3px 3px 5px;
-}
-.ie7 #direction_input {
-	padding-top: 6px;
-}
-.ie6 #direction_input {
-	padding: 5px 3px 3px 5px;
-	background: #ffffff;
-}
-.ie6 #direction_icon {
-	display: none;
-}
 
 #button_div {
 	float: left;
 	clear: left;
 	margin-left: 275px;
-}
-.ie8 #button_div {
-	margin-left: 280px;
-}
-.ie7 #button_div {
-	width: 225px;
-	margin-left: 265px;
-	display: inline;
-}
-.ie6 #button_div {
-	width: 225px;
-	margin-left: 285px;
-	display: inline;
 }
 #link {
 	color: #426F8F;
@@ -461,10 +336,7 @@ ul, ol {
 	color: #426F8F;
 	text-decoration: none;
 }
-.ie8 #email_link, .ie7 #email_link, .ie6 #email_link {
-	margin-top: 10px;
-	font-size: 0.875em;
-}
+
 #email_link:hover {
 	text-decoration: underline;
 }
@@ -482,22 +354,13 @@ ul, ol {
 	margin: 15px 0px 15px 0;
 	padding-left: 25px;
 }
-.ie8 #content_div {
-	margin-top: 18px;
-}
-.ie6 #content_div {
-	display: inline;
-}
+
 #content_div a {
 	text-decoration: none;
 	color: #003E72;
 	margin-bottom: 8px;
 }
-.ie8 #content_div a, .ie7 #content_div a, .ie6 #content_div a {
-	margin-bottom: 12px;
-	font-size: 0.875em;
-	font-family: verdana, geneva, sans-serif;
-}
+
 #content_div a:hover {
 	color: #426F8F;
 }
@@ -519,11 +382,7 @@ ul, ol {
 	line-height: 1.4;
 	padding-bottom: 20px;
 }
-.ie6 #main_content {
-	float: right;
-	padding: 0;
-	margin: 15px 0 15px 0;
-}
+
 #main_content p span {
 	color: #05396e;
 	font-size: 1.05em;
@@ -535,27 +394,7 @@ ul, ol {
 	width: 635px;
 	margin: 0 25px 15px 0;
 }
-.ie6 .content_div {
-	margin: 0 15px 15px 0;
-}
-.'Istok Web' {
-	color: #003E72;
-	font-weight: normal;
-	padding: 0;
-	margin-bottom: 2px;
-}
-.ie8 .'Istok Web', .ie7 .'Istok Web', .ie6 .'Istok Web' {
-	margin-bottom: 8px;	
-}
-.sub_'Istok Web' {
-	color: #003E72;
-	font-weight: bold;
-}
-.ie9 .sub_'Istok Web' {
-}
-.ie8 .sub_'Istok Web', .ie7 .sub_'Istok Web', .ie6 .sub_'Istok Web' {
-	margin-bottom: 4px; 
-}
+
 #content_div p {
 	float: left;
 	color: #606060;
@@ -583,16 +422,6 @@ ul, ol {
 	width: 100%;
 	margin-bottom: 0;
 }
-.ie7 #ft { 
-	margin: 15px 0 15px 0;
-}
-.ie6 #ft { 
-	float: left;
-	width: 100%;
-	height: 200px;
-	margin-bottom: 0;
-	background: #ffffff url(../images/ft_bg.png) repeat-x 0% 100%;
-}
 #ft_nav p {
 	float: left;
 	color: #003E72;
@@ -602,9 +431,6 @@ ul, ol {
 	width: 450px;
 	line-height: 150%;
 }
-.ie6 #ft_nav p {
-	margin-top: 85px;
-}
 #ft_nav {
 	font-size: 0.75em;
 	padding: 15px 0 15px 0;
@@ -613,20 +439,11 @@ ul, ol {
 	margin: 0 auto;
 	text-align: center;
 }
-.ie8 #ft_nav, .ie7 #ft_nav, .ie6 #ft_nav {
-	font-size: 0.7em;
-}
 .ft_links {
 	float: right;
 	margin-top: 10px;
 	text-align: left;
 	padding: 0 25px 0 15px;
-}
-.ie8 .ft_links, .ie7 .ft_links {
-	margin-top: 20px;
-}
-.ie6 .ft_links {
-	margin-top: 95px;
 }
 a {
 	color: #003E72;
@@ -675,11 +492,6 @@ a:hover, #ft_nav a:focus {
 	background: url(../images/welfare_new.png) 50% 0% no-repeat;
 	border-top: 2px solid #426F8F;
 }
-.ie6 #agri,
-.ie6 #products ,
-.ie6 #welfare {
-	display: inline;
-}
 .main_link {
 	float: left;
 	color: #426F8F;
@@ -695,12 +507,6 @@ a:hover, #ft_nav a:focus {
 	padding-right: 25px;
 	border-right: 1px solid #7592ac;
 }
-.ie8 #attach_form_div {
-	font-size: 0.975em;
-}
-.ie6 #attach_form_div {
-	display: inline;
-}
 #job_desc_div {
 	float: left;
 	width: 515px;
@@ -711,15 +517,6 @@ a:hover, #ft_nav a:focus {
 #job_desc_div p {
 	margin: 10px 0;
 }
-.ie6 #job_desc_div {
-	display: inline;
-	border: none;
-}
-.'Istok Web' {
-	color: #003E72;
-	font-weight: normal;
-	margin-bottom: 8px;
-}
 #attach_form_div p {
 	float: left;
 	padding-bottom: 18px;
@@ -728,7 +525,6 @@ a:hover, #ft_nav a:focus {
 	line-height: 1.3;
 }
 #attach_form_div p span {
-	font-family: 'Istok Web';
 	color: #05396e;
 	font-weight: bold;
 } 

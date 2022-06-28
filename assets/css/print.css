@@ -22,9 +22,6 @@ body {
 #breadcrumbs_div {
 	display: none;
 }
-.ie6 #breadcrumbs_div {
-	display: none;
-}
 #blue_bar_div {
 	display: none;
 }
@@ -32,15 +29,6 @@ body {
 	background: none;
 }
 #main_enviro {
-	background: none;
-}
-.ie6 #main_enviro {
-	background: none;
-}
-.ie9 #main_agri, .ie8 #main_agri, .ie7 #main_agri {
-	background: none;
-}
-.ie6 #main_agri {
 	background: none;
 }
 #main_about {
@@ -52,31 +40,13 @@ body {
 #main_prod {
 	background: none;
 }
-.ie9 #main_about, .ie8 #main_about, .ie7 #main_about {
-	background: none;
-}
-.ie6 #main_about {
-	background: none;
-}
-.ie6 #main_prod {
-	background: none;
-}
 #registration_div {
-	display: none;
-}
-.ie6 #registration_div {
-	display: none;
-}
-.ie6 #attach_form_div {
 	display: none;
 }
 #contact_div {
 	border: none;
 }
 #content_div {
-	display: none;
-}
-.ie6 #content_div {
 	display: none;
 }
 #direction_input {
@@ -88,9 +58,6 @@ body {
 }
 .content_div {
 	width: 850px;
-}
-.ie6 .content_div {
-	width: 950px;
 }
 #products {
 	border: none;
