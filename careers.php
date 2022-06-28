@@ -54,6 +54,7 @@
 					<li>Keeping your workplace clean up to company standards
 					<li>Working according to health and safety standards
 				</ul>
+				<br>
 				<h4>Pay structure / rates:</h4>
 				<ul>
 					<li>Day shift 0600-1800 3 on / 1 off / 3 on / 7 off
@@ -61,6 +62,7 @@
 					<li>Starting pay rate £10.30 p/h, after probation period - £10.61p/h.
 					<li>Overtimes available with increased rates!
 				</ul>
+				<br>
 				<h4>Requirements:</h4>
 					<ul>
 					<li>Forklift licence (preferred but not essential)
