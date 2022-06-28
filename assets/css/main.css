@@ -799,9 +799,6 @@ a:hover, #ft_nav a:focus {
 	-moz-border-radius: 5px;
 	border-radius: 5px; 
 }
-#contactus #scaptcha {
-	height: 18px;
-}
 #contactus input[type="submit"] {
 	height: 30px;
 	padding-left: 0px; 
