@@ -45,42 +45,35 @@
 				<br>
 				<hr>
 				<br>
+				<h4>Multi-skilled Warehouse operative</h4>
+				<p>Banham Poultry LTD has exciting new position available – Multi Skilled Warehouse operative in food manufacturing plant with immediate start!</p>
+				<p>Responsibilities:
+					<ul>
+						<li>Scanning, packing, loading, documenting packed goods for despatch
+						<li>Operating forklift to load and unload goods
+						<li>Keeping your workplace clean up to company standards
+						<li>Working according to health and safety standards
+					</ul>
+				</p>
+				<p>Pay structure / rates:
+					<ul>
+						<li>Day shift 0600-1800 3 on / 1 off / 3 on / 7 off
+						<li>Night shift Monday to Friday 1800-0300 or 2100-0600
+						<li>Starting pay rate £10.30 p/h, after probation period - £10.61p/h.
+						<li>Overtimes available with increased rates!
+					</ul>
+				</p>
+				<p>Requirements:
+					<ul>
+						<li>Forklift licence (preferred but not essential)
+						<li>Experience preferred but not essential as training will be given
+						<li>Own transport due to location of the factory
+					</ul>
+				</p>
+				<p>If you are interested please apply and we will contact you to arrange interview.</p>
 				<!--
-				<h4>Hygiene Team Leaders</h4>
-				<ul>
-					<li>Hours of work:
-						<ul>
-							<li>Hours of work: 5 days out of 7 (10pm-6am)
-							<li>Nights 6.30pm – 3am (Monday-Friday)
-						</ul>
-					</li>
-					<li>Rate of pay: £10.50 per hour
-					<li>Previous experience within food manufacturing required
-				</ul>
-				<br>
-				<h4>Line Leaders Operatives</h4>
-				<ul>
-					<li>Hours of work:
-						<ul>
-							<li>Days 6am - 6.30pm (3 on, 1 off, 3 on, 7 off)
-							<li>Nights 6.30pm – 3am (Monday-Friday)
-						</ul>
-					</li>
-					<li>Rate of pay: £10.00 per hour
-				</ul>
-				<br>
-				<h4>Production Operatives</h4>
-				<ul>
-					<li>Hours of work:
-						<ul>
-							<li>Days 6am - 6.30pm (3 on, 1 off, 3 on, 7 off)
-							<li>Nights 6.30pm – 3am (Monday-Friday)
-						</ul>
-					</li>
-					<li>Rate of pay: £8.21 per hour
-				</ul>
-				-->
 				<p>We have no open positions at this time.</p>
+				-->
 				<br>
 				<hr>
 				<br>
