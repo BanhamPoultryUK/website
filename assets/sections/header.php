@@ -47,28 +47,30 @@
 	
 </head>
 <body>
-	<div id="skiptocontent">
-		<a href="#main">skip to main content</a>
+
+<div id="skiptocontent">
+	<a href="#main">skip to main content</a>
+</div>
+
+<div id="wrapper">
+	<div id="hd">
+		<a href="/" title="Home"><img id="hd_logo" src="/assets/images/new_hd.png" alt="Banham Poultry Logo"></a>
+		<div id="hd_links">
+			<a href="/cookie-policy">Cookie Policy</a>
+			<span>&nbsp;&middot;&nbsp;</span>
+			<a href="/assets/files/BanhamPoultryPrivacyPolicy.pdf" title="">Privacy Policy</a>
+			<span>&nbsp;&middot;&nbsp;</span>
+			<a href="/assets/files/BanhamPoultryTermsOfUse.pdf" title="">Terms of Use</a>
+		</div>
 	</div>
-	<div id="wrapper">
-		<div id="hd">
-			<a href="/" title="Home"><img id="hd_logo" src="/assets/images/new_hd.png" alt="Banham Poultry Logo"></a>
-			<div id="hd_links">
-				<a href="/cookie-policy">Cookie Policy</a>
-				<span>&nbsp;&middot;&nbsp;</span>
-				<a href="/assets/files/BanhamPoultryPrivacyPolicy.pdf" title="">Privacy Policy</a>
-				<span>&nbsp;&middot;&nbsp;</span>
-				<a href="/assets/files/BanhamPoultryTermsOfUse.pdf" title="">Terms of Use</a>
-			</div>
-		</div>
-		<div id="navigation">
-			<ul id="nav">
-				<li id="nav_home"><a href="/" title="">Home</a></li>
-				<li id="nav_about_us"><a href="/about_us" title="">About Us</a></li>
-				<li id="nav_products"><a href="/products" title="">Products</a></li>
-				<li id="nav_agriculture"><a href="/agriculture" title="">Agriculture</a></li>
-				<li id="nav_environment"><a href="/environment" title="">Environment</a></li>
-				<li id="nav_careers"><a href="/careers" title="">Careers</a></li>
-				<li id="nav_contact_us"><a href="/contact_us" title="">Contact Us</a></li>
-			</ul>
-		</div>
+	<div id="navigation">
+		<ul id="nav">
+			<li id="nav_home"><a href="/" title="">Home</a></li>
+			<li id="nav_about_us"><a href="/about_us" title="">About Us</a></li>
+			<li id="nav_products"><a href="/products" title="">Products</a></li>
+			<li id="nav_agriculture"><a href="/agriculture" title="">Agriculture</a></li>
+			<li id="nav_environment"><a href="/environment" title="">Environment</a></li>
+			<li id="nav_careers"><a href="/careers" title="">Careers</a></li>
+			<li id="nav_contact_us"><a href="/contact_us" title="">Contact Us</a></li>
+		</ul>
+	</div>
