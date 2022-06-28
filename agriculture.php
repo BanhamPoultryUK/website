@@ -17,7 +17,7 @@
 				<div id="content_div">
 					<a href="#hatch">&#187; Agricultural Services</a><br>
 					<a href="#bird">&#187; Bird Welfare &#38; Food Safety</a><br>
-					<a href="agriculture_campylobacter.php">&#187; Campylobacter – Your Questions Answered</a>
+					<a href="agriculture_campylobacter">&#187; Campylobacter – Your Questions Answered</a>
 				</div>
 			<div id="main_content">
 				<div class="content_div">

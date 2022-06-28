@@ -68,11 +68,11 @@
 		<div id="navigation">
 			<ul id="nav">
 				<li id="nav_home"><a href="/" title="">Home</a></li>
-				<li id="nav_about_us"><a href="/about_us.php" title="">About Us</a></li>
-				<li id="nav_products"><a href="/products.php" title="">Products</a></li>
-				<li id="nav_agriculture"><a href="/agriculture.php" title="">Agriculture</a></li>
-				<li id="nav_environment"><a href="/environment.php" title="">Environment</a></li>
-				<li id="nav_careers"><a href="/careers.php" title="">Careers</a></li>
-				<li id="nav_contact_us"><a href="/contact_us.php" title="">Contact Us</a></li>
+				<li id="nav_about_us"><a href="/about_us" title="">About Us</a></li>
+				<li id="nav_products"><a href="/products" title="">Products</a></li>
+				<li id="nav_agriculture"><a href="/agriculture" title="">Agriculture</a></li>
+				<li id="nav_environment"><a href="/environment" title="">Environment</a></li>
+				<li id="nav_careers"><a href="/careers" title="">Careers</a></li>
+				<li id="nav_contact_us"><a href="/contact_us" title="">Contact Us</a></li>
 			</ul>
 		</div>

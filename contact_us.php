@@ -19,7 +19,7 @@
 					<p><span>t </span> +44 (0)1953 455001</p><br />
 					<p><span>f </span> +44 (0)1953 455466</p><br />
 <a id="email_link" href="mailto:hr@banhampoultryuk.com?subject=Enquiry%20via%20website">hr@banhampoultryuk.com</a><br />
-<a href="careers.php">For careers please click here</a>
+<a href="careers">For careers please click here</a>
 				</div>
 				<div class="detail">
 					<h3 class="heading">Find Us</h3>

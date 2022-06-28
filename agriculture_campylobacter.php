@@ -7,7 +7,7 @@
 			<div id="breadcrumbs_div">
 				<ul>
 					<li><a href="/" title="">Home<span>&nbsp;&#187;</span></a></li>
-					<li><a href="agriculture.php" title="">Agriculture<span>&nbsp;&#187;</span></a></li>
+					<li><a href="agriculture" title="">Agriculture<span>&nbsp;&#187;</span></a></li>
 					<li id="current_bc">Campylobacter – Your Questions Answered</li>
 				</ul>
 			</div>
