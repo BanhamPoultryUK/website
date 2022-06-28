@@ -782,7 +782,9 @@ a:hover, #ft_nav a:focus {
 	font-size: 0.8em;
 	color: #003E72;
 }
-#contactus input[type="text"],textarea {
+#contactus input[type="text"],
+#contactus input[type="email"],
+textarea {
 	font-size: 0.8em;
 	line-height: 1.4;
 	color : #000; 
@@ -792,7 +794,8 @@ a:hover, #ft_nav a:focus {
 	-webkit-border-radius: 5px;
 	border-radius: 5px;
 }
-#contactus input[type="text"] {
+#contactus input[type="text"],
+#contactus input[type="email"] {
 	height: 18px;
 	width: 80%;
 	-webkit-border-radius: 5px;
