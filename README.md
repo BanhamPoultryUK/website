@@ -1,10 +1,8 @@
-# Information
-
 The website hosted at [banhampoultryuk.com](https://banhampoultryuk.com)
 
 Development hosted at [github.com/BanhamPoultryUK/Website](https://github.com/BanhamPoultryUK/Website)
 
-# Technologies
+### Technologies
 - Linux
 - Nginx
 - PHP
@@ -12,14 +10,8 @@ Development hosted at [github.com/BanhamPoultryUK/Website](https://github.com/Ba
 - CSS
 - JavaScript
 
-## Upstream Projects
-- [PHPMailer/PHPMailer - Version 2.0.4](https://github.com/PHPMailer/PHPMailer)
-- [simfatic/FG_ContactForm](https://github.com/simfatic/FG_ContactForm)
--  JavaScript Form Validator - Version 3.1
+### Dependencies
+- [Browning](https://github.com/eustasy/browning-a-mailgun-script)
 
-# Staging
-There is a staging environment at [www.banhampoultryuk.com.local](http://www.banhampoultryuk.com.local)  
-This is hosted on `BanLinux`.
-
-# Deployment
+### Deployment
 Deployment is automatic once pushed to the repository.
