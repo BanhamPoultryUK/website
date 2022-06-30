@@ -41,6 +41,32 @@
 		<br>
 		<hr>
 		<br>
+		<h4>Kitchen assistant (canteen)</h4>
+		<p>Banham Poultry LTD recruiting for Kitchen assistant to work on night shift in factory canteen with immediate start!</p>
+		<h4>Responsibilities:</h4>
+		<ul>
+			<li>Operating cash register
+			<li>Preparing and serving food according to the agreed specifications
+			<li>Any other duties required by the Canteen Supervisor and Senior Management
+		</ul>
+		<br>
+		<h4>Shift pattern / rates:</h4>
+		<ul>
+			<li>£10.30p/h (during 12 weeks training period), up to £11.33p/h after training
+			<li>During training period shift is Monday to Friday from 7am-3pm
+			<li>After training – working on night shift – 40hrs per week, to be agreed to cover service between 7pm-11pm
+		</ul>
+		<br>
+		<h4>Requirements:</h4>
+			<ul>
+			<li>Own transport due to location
+			<li>Previous experience preferred but not essential as training will be given
+			<li>Flexibility regarding working hours
+		</ul>
+		<p>If you are interested please apply and we will contact you to arrange interview.</p>
+		<br>
+		<hr>
+		<br>
 		<h4>Multi-skilled Warehouse operative</h4>
 		<p>Banham Poultry LTD has exciting new position available – Multi Skilled Warehouse operative in food manufacturing plant with immediate start!</p>
 		<h4>Responsibilities:</h4>
