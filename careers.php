@@ -58,7 +58,7 @@
 		</ul>
 		<br>
 		<h4>Requirements:</h4>
-			<ul>
+		<ul>
 			<li>Own transport due to location
 			<li>Previous experience preferred but not essential as training will be given
 			<li>Flexibility regarding working hours
@@ -86,10 +86,35 @@
 		</ul>
 		<br>
 		<h4>Requirements:</h4>
-			<ul>
+		<ul>
 			<li>Forklift licence (preferred but not essential)
 			<li>Experience preferred but not essential as training will be given
 			<li>Own transport due to location of the factory
+		</ul>
+		<p>If you are interested please apply and we will contact you to arrange interview.</p>
+		<br>
+		<hr>
+		<br>
+		<h4>Night Production Operative</h4>
+		<p>Banham Poultry LTD recruiting for Production Operatives to work on night shift in various departments with immediate start!</p>
+		<h4>Responsibilities:</h4>
+		<ul>
+			<li>Processing and packing raw meat products on conveyor belt
+			<li>Working according to food safety standards
+			<li>Quality checking during all steps of the process
+		</ul>
+		<br>
+		<h4>Shift pattern / rates:</h4>
+		<ul>
+			<li>Weekly pay
+			<li>Starting rate £10.30p.h – after 12 weeks £10.61p/h
+			<li>Monday to Thursday shifts 1430-0000 OR 1645-0215
+		</ul>
+		<br>
+		<h4>Requirements:</h4>
+		<ul>
+			<li>Own transport due to location
+			<li>Knife skills preferred but not essential
 		</ul>
 		<p>If you are interested please apply and we will contact you to arrange interview.</p>
 		<br>
