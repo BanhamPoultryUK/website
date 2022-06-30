@@ -95,6 +95,46 @@
 		<br>
 		<hr>
 		<br>
+		<h4>Night hygiene operative</h4>
+		<p>Banham Poultry LTD recruiting for Night Hygiene Operatives to start immediately!</p>
+		<h4>Responsibilities:</h4>
+		<ul>
+			<li>Cleaning all production areas on site
+			<li>Working with chemicals and high pressure equipment
+			<li>Working to health and safety standards
+		</ul>
+		<br>
+		<h4>Shift patterns:</h4>
+		<ul>
+			<li>Monday to Thursday 23.15-07.15
+			<li>Friday 23.15-7.15 or 23.00-08.00
+			<li>Sunday: 20.00-5.30
+		</ul>
+		<br>
+		<h4>Pay structure:</h4>
+		<ul>
+			<li>Weekly pay
+			<li>Pattern 1 & 3 & 4 pay rate - £12.75 + OT available & rate increase after training
+			<li>Pattern 2 pay rate - £12.50 + OT available & rate increase after training
+		</ul>
+		<br>
+		<h4>Hours of work:</h4>
+		<ul>
+			<li>Pattern 1 - Sunday-Thursday
+			<li>Pattern 2 - Monday-Friday
+			<li>Pattern 3 - Wednesday-Sunday
+			<li>Pattern 4 - Friday-Tuesday
+		</ul>
+		<br>
+		<h4>Requirements:</h4>
+		<ul>
+			<li>Own transport due to location
+			<li>Experience preferred but not essential as training will be given
+		</ul>
+		<p>If you are interested please apply and we will contact you to arrange interview.</p>
+		<br>
+		<hr>
+		<br>
 		<h4>Night Production Operative</h4>
 		<p>Banham Poultry LTD recruiting for Production Operatives to work on night shift in various departments with immediate start!</p>
 		<h4>Responsibilities:</h4>
