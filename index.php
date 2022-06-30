@@ -27,4 +27,4 @@
 </div>
 		
 		
-<?php include 'assets/sections/footer.php'; ?>
+<?php include 'assets/sections/footer.php';
