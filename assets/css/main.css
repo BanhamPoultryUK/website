@@ -517,6 +517,10 @@ a:hover, #ft_nav a:focus {
 #job_desc_div p {
 	margin: 10px 0;
 }
+#job_desc_div hr {
+    border: 0;
+    border-top: 1px solid #7592ac;
+}
 #attach_form_div p {
 	float: left;
 	padding-bottom: 18px;
